@@ -1,0 +1,160 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anime-sama.fr&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "fileSize": 27805,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "AnimeSamaProvider",
+        "description": "D\u00e9couvrez ce site qui regroupe les derniers animes et les scans. C'est un site pour les fans de manga. Tout y est",
+        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/AnimeSamaProvider.cs3",
+        "name": "AnimeSamaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=french-stream.ac&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "fileSize": 17792,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Sarlay",
+            "Eddy976"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FrenchStreamProvider",
+        "description": "FRENCH STREAM en plus d'\u00eatre un site efficace et plaisant dispose d'un contenu visuel diversifi\u00e9",
+        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/FrenchStreamProvider.cs3",
+        "name": "FrenchStreamProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=franceiptv.fr/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "fileSize": 40333,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "MaciptvProvider",
+        "description": "Ajoutez votre compte IPTV ou bien \u00e0 d\u00e9faut, le compte automatique vous permettra de vivre en Live vos \u00e9missions Tv des groupes Bein, RMC, Canal ...",
+        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/MaciptvProvider.cs3",
+        "name": "MaciptvProvider"
+    },
+    {
+        "iconUrl": "https://mesfilms.lol/wp-content/uploads/2021/08/mflogo_round.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "fileSize": 15927,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Sarlay"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MesFilmsProvider",
+        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/MesFilmsProvider.cs3",
+        "name": "MesFilmsProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=neko-sama.fr&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "fileSize": 25504,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "NekosamaProvider",
+        "description": " Ce site fait son entr\u00e9e dans la cat\u00e9gorie des meilleurs sites animes Fran\u00e7ais. Il est tr\u00e8s fiable car quasiment tous ses liens vid\u00e9os marchent. Il propose des animes en \u00ab VF \u00bb version fran\u00e7aise et en \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
+        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/NekosamaProvider.cs3",
+        "name": "NekosamaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=otakufr.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "fileSize": 14866,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "OtakuFRProvider",
+        "description": "Otakurf.co met \u00e0 votre disposition une technologie omnipr\u00e9sente, qui vous permet de regarder  des animes qui sont sous-titr\u00e9s en fran\u00e7ais",
+        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/OtakuFRProvider.cs3",
+        "name": "OtakuFRProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vostfree.cx&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "fileSize": 20280,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "VostfreeProvider",
+        "description": " Ce site est certainement l\u2019un des meilleurs sites permettant de regarder des animes en ligne et gratuitement. Il vous propose la version \u00ab VF \u00bb version fran\u00e7aise et la \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
+        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/VostfreeProvider.cs3",
+        "name": "VostfreeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=wiflix.zone&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Eddy976/cloudstream-extensions-eddy",
+        "fileSize": 22172,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "WiflixProvider",
+        "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
+        "url": "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/WiflixProvider.cs3",
+        "name": "WiflixProvider"
+    }
+]
