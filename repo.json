@@ -1,0 +1,8 @@
+{
+    "name": "Eddy providers repository",
+    "description": "Cloudstream Eddy Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Eddy976/cloudstream-extensions-eddy/builds/plugins.json"
+    ]
+}
