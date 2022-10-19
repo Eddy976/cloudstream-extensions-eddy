@@ -101,5 +101,45 @@
 				"url_image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png",
 				"lang": "FR",
 				"url_load": ""
+			},
+			{
+				"title": "RMC Découverte",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/271",
+				"genre": "sport",
+				"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1200px-RMC_D%C3%A9couverte_logo_2017.svg.png",
+				"lang": "Divertissement",
+				"url_load": ""
+			},
+			{
+				"title": "RMC Story",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/272",
+				"genre": "Divertissement",
+				"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "RMC Sport 1",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/392",
+				"genre": "sport",
+				"url_image": "https://img.sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "RMC Sport 2",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/393",
+				"genre": "sport",
+				"url_image": "https://img.sport-tv-guide.live/images/tv-station-rmc-sport-2-1428.png",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "RMC Sport 4",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/484",
+				"genre": "sport",
+				"url_image": "https://img.sport-tv-guide.live/images/tv-station-rmc-sport-4-1430.png",
+				"lang": "FR",
+				"url_load": ""
 			}
 		]
