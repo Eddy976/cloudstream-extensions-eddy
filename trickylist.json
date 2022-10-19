@@ -77,5 +77,29 @@
 				"url_image": "https://fr.web.img6.acsta.net/r_654_368/newsv7/20/04/05/14/42/4093868.jpg",
 				"lang": "FR",
 				"url_load": ""
+			},
+			{
+				"title": "Ciné ➕ émotion",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/286",
+				"genre": "cinema",
+				"url_image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png",
+				"lang": "FR",
+				"url_load": ""
+			}, {
+				"title": "Canal ➕ cinéma",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/292",
+				"genre": "cinema",
+				"url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Canal%2BCin%C3%A9ma2009.svg/500px-Canal%2BCin%C3%A9ma2009.svg.png",
+				"lang": "FR",
+				"url_load": ""
+			},
+
+			{
+				"title": "Canal ➕kids",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/294",
+				"genre": "jeunesse",
+				"url_image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png",
+				"lang": "FR",
+				"url_load": ""
 			}
 		]
