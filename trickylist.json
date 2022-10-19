@@ -141,5 +141,13 @@
 				"url_image": "https://img.sport-tv-guide.live/images/tv-station-rmc-sport-4-1430.png",
 				"lang": "FR",
 				"url_load": ""
+			},
+			{
+				"title": "Game One",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/477",
+				"genre": "jeunesse",
+				"url_image": "https://pbs.twimg.com/profile_images/1301088380009304066/7RHAiyyT_400x400.jpg",
+				"lang": "FR",
+				"url_load": ""
 			}
 		]
