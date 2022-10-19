@@ -189,5 +189,13 @@
 				"url_image": "https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-5-fr.png",
 				"lang": "FR",
 				"url_load": ""
+			},
+			{
+				"title": "Canal ➕ Premier League",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/388",
+				"genre": "sport",
+				"url_image": "https://cdn.tv-programme.com/pic/chaines/168.png",
+				"lang": "FR",
+				"url_load": ""
 			}
 		]
