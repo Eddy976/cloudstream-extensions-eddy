@@ -105,15 +105,15 @@
 			{
 				"title": "RMC Découverte",
 				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/271",
-				"genre": "sport",
+				"genre": "divertissement",
 				"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1200px-RMC_D%C3%A9couverte_logo_2017.svg.png",
-				"lang": "Divertissement",
+				"lang": "FR",
 				"url_load": ""
 			},
 			{
 				"title": "RMC Story",
 				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/272",
-				"genre": "Divertissement",
+				"genre": "divertissement",
 				"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png",
 				"lang": "FR",
 				"url_load": ""
