@@ -128,7 +128,7 @@
 			},
 			{
 				"title": "RMC Sport 2",
-				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/393",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/397",
 				"genre": "sport",
 				"url_image": "https://img.sport-tv-guide.live/images/tv-station-rmc-sport-2-1428.png",
 				"lang": "FR",
@@ -195,6 +195,78 @@
 				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/388",
 				"genre": "sport",
 				"url_image": "https://cdn.tv-programme.com/pic/chaines/168.png",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "L'Equipe 21",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/274",
+				"genre": "sport",
+				"url_image": "https://www.lesfouleesdugois.com/wp-content/uploads/2019/06/equipe21-foulees-du-gois.png",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "ARTE",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/258",
+				"genre": "documentaire",
+				"url_image": "https://www.movinmotion.com/wp-content/uploads/2017/05/arte-share-2.png",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "La chaîne météo",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/275",
+				"genre": "info",
+				"url_image": "https://www.tv-direct.fr/assets/logo/chaines/la-chaine-meteo.jpg",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "BFM TV",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/279",
+				"genre": "info",
+				"url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/600px-BFM_TV_logo.png",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "BFM Bussiness",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/280",
+				"genre": "info",
+				"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_BFM-Business.svg/1200px-Logo_BFM-Business.svg.png",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "France 24",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/231",
+				"genre": "info",
+				"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "Discovery Science",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/323",
+				"genre": "documentaire",
+				"url_image": "https://www.dlf.pt/dfpng/middlepng/250-2509768_discovery-science-logo-png-png-download-discovery-science.png",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "Discovery",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/324",
+				"genre": "documentaire",
+				"url_image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg",
+				"lang": "FR",
+				"url_load": ""
+			},
+			{
+				"title": "NatGeo Wild",
+				"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/330",
+				"genre": "documentaire",
+				"url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png",
 				"lang": "FR",
 				"url_load": ""
 			}
