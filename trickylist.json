@@ -78,6 +78,13 @@
 		"lang": "FR",
 		"url_load": ""
 	}, {
+		"title": "AF | TF1",
+		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/471",
+		"genre": "general",
+		"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png",
+		"lang": "FR",
+		"url_load": ""
+	}, {
 		"title": "|FR| RMC SPORT LIVE 1 HD",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/392",
 		"genre": "sport",
@@ -500,7 +507,7 @@
 		"title": "AF | Canal➕ Action Ouest",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/492",
 		"genre": "cinema",
-		"url_image": "https://static.wikia.nocookie.net/logopedia/images/e/ed/Canalplus-action-logo-black.svg/revision/latest?cb=20210827222221",
+		"url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/C_More_Action.svg/langfr-150px-C_More_Action.svg.png",
 		"lang": "FR",
 		"url_load": ""
 	}, {
@@ -521,7 +528,7 @@
 		"title": "AF| Canal ➕Sport HD",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/489",
 		"genre": "sport",
-		"url_image": "https://yt3.ggpht.com/ytc/AMLnZu-y3kkscL7PGcuIVO1CiRWRwchA2aF7ub5RIvGDkw=s900-c-k-c0x00ffffff-no-rj",
+		"url_image": "https://www.canal-sport.fr/sfThemeCanalSportPlugin/images/logo-white.png",
 		"lang": "FR",
 		"url_load": ""
 	}, {
@@ -562,49 +569,49 @@
 	}, {
 		"title": "AF | Zee Magic",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/482",
-		"genre": "sport",
+		"genre": "musique",
 		"url_image": "https://fr.web.img6.acsta.net/r_654_368/newsv7/20/04/05/14/42/4093868.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "AF | Mangas",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/481",
-		"genre": "sport",
+		"genre": "jeunesse",
 		"url_image": "https://fr.web.img6.acsta.net/r_654_368/newsv7/20/04/05/14/42/4093868.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "AF | Nickelodeon",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/480",
-		"genre": "sport",
+		"genre": "jeunesse",
 		"url_image": "https://fr.web.img6.acsta.net/r_654_368/newsv7/20/04/05/14/42/4093868.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "AF | Ludikids",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/479",
-		"genre": "sport",
+		"genre": "jeunesse",
 		"url_image": "https://fr.web.img6.acsta.net/r_654_368/newsv7/20/04/05/14/42/4093868.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "AF | J-One",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/478",
-		"genre": "sport",
+		"genre": "jeunesse",
 		"url_image": "https://fr.web.img6.acsta.net/r_654_368/newsv7/20/04/05/14/42/4093868.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "AF | Disney Junior",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/476",
-		"genre": "sport",
+		"genre": "jeunesse",
 		"url_image": "https://fr.web.img6.acsta.net/r_654_368/newsv7/20/04/05/14/42/4093868.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "AF | Disney Channel",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/475",
-		"genre": "sport",
+		"genre": "jeunesse",
 		"url_image": "https://fr.web.img6.acsta.net/r_654_368/newsv7/20/04/05/14/42/4093868.jpg",
 		"lang": "FR",
 		"url_load": ""
@@ -630,13 +637,6 @@
 		"lang": "FR",
 		"url_load": ""
 	}, {
-		"title": "AF | TF1",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/471",
-		"genre": "sport",
-		"url_image": "https://fr.web.img6.acsta.net/r_654_368/newsv7/20/04/05/14/42/4093868.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
 		"title": "AF | SyFy",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/470",
 		"genre": "sport",
@@ -653,14 +653,14 @@
 	}, {
 		"title": "AF | RTL 9",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/468",
-		"genre": "sport",
+		"genre": "general",
 		"url_image": "https://fr.web.img6.acsta.net/r_654_368/newsv7/20/04/05/14/42/4093868.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "AF | M6 International",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/467",
-		"genre": "sport",
+		"genre": "general",
 		"url_image": "https://fr.web.img6.acsta.net/r_654_368/newsv7/20/04/05/14/42/4093868.jpg",
 		"lang": "FR",
 		"url_load": ""
