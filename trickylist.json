@@ -2,7 +2,37 @@
 		"title": "Amazon prime 1",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/363",
 		"genre": "sport",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+		"lang": "FR",
+		"url_load": ""
+	}, {
+		"title": "|FR| beIN Sports 1 HD",
+		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/380",
+		"genre": "sport",
+		"url_image": "https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
+		"lang": "FR",
+		"url_load": ""
+	},
+	{
+		"title": "|FR| beIN Sports 2 HD",
+		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/381",
+		"genre": "sport",
+		"url_image": "https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
+		"lang": "FR",
+		"url_load": ""
+	},
+	{
+		"title": "|FR| beIN Sports 3 HD",
+		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/382",
+		"genre": "sport",
+		"url_image": "https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
+		"lang": "FR",
+		"url_load": ""
+	}, {
+		"title": "|FR| BeIN Sport Max 4 HD",
+		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/411",
+		"genre": "sport",
+		"url_image": "https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
 		"lang": "FR",
 		"url_load": ""
 	},
@@ -18,7 +48,7 @@
 		"title": "Amazon prime 2",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/366",
 		"genre": "sport",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	},
@@ -26,7 +56,7 @@
 		"title": "Amazon prime 3",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/368",
 		"genre": "sport",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	},
@@ -34,7 +64,7 @@
 		"title": "Amazon prime 4",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/370",
 		"genre": "sport",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	},
@@ -42,7 +72,7 @@
 		"title": "Amazon prime 5",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/372",
 		"genre": "sport",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	},
@@ -50,7 +80,7 @@
 		"title": "Amazon prime 6",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/374",
 		"genre": "sport",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	},
@@ -58,7 +88,7 @@
 		"title": "Amazon prime 7",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/376",
 		"genre": "sport",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	},
@@ -66,7 +96,7 @@
 		"title": "Amazon prime 8",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/378",
 		"genre": "sport",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	},
@@ -74,7 +104,7 @@
 		"title": "Amazon prime 9",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/514",
 		"genre": "sport",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	},
@@ -82,7 +112,7 @@
 		"title": "Amazon prime 10",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/513",
 		"genre": "sport",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
@@ -1066,13 +1096,6 @@
 		"lang": "FR",
 		"url_load": ""
 	}, {
-		"title": "|FR| BeIN Sport Max 4 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/411",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
 		"title": "|FR| MY ZEN TV HD",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/410",
 		"genre": "sport",
@@ -1178,87 +1201,66 @@
 		"lang": "FR",
 		"url_load": ""
 	}, {
-		"title": "|FR| beIN Sports 3 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/382",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| beIN Sports 2 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/381",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| beIN Sports 1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/380",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
 		"title": "|FR| AMAZON PRIME 8 HD (ONLY EVENTS)",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/379",
 		"genre": "sport",
-		"url_image": "",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "|FR| AMAZON PRIME 7 HD (ONLY EVENTS)",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/377",
 		"genre": "sport",
-		"url_image": "",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "|FR| AMAZON PRIME 6 HD (ONLY EVENTS)",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/375",
 		"genre": "sport",
-		"url_image": "",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "|FR| AMAZON PRIME 5 HD (ONLY EVENTS",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/373",
 		"genre": "sport",
-		"url_image": "",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "|FR| AMAZON PRIME 4 HD (ONLY EVENTS)",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/371",
 		"genre": "sport",
-		"url_image": "",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "|FR| AMAZON PRIME 3 HD (ONLY EVENTS)",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/369",
 		"genre": "sport",
-		"url_image": "",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "|FR| AMAZON PRIME 2 HD (ONLY EVENTS)",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/367",
 		"genre": "sport",
-		"url_image": "",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "|FR|AMAZON PRIME 1 HD..",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/365",
 		"genre": "sport",
-		"url_image": "",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
 		"title": "|FR|  AMAZON PRIME 1 HD (ONLY EVENTS)",
 		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/364",
 		"genre": "sport",
-		"url_image": "",
+		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
 		"lang": "FR",
 		"url_load": ""
 	}, {
