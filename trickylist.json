@@ -1,2100 +1,2362 @@
-[{
-		"title": "Amazon prime 1",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/363",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| beIN Sports 1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/380",
-		"genre": "sport",
-		"url_image": "https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "|FR| beIN Sports 2 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/381",
-		"genre": "sport",
-		"url_image": "https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "|FR| beIN Sports 3 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/382",
-		"genre": "sport",
-		"url_image": "https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| BeIN Sport Max 4 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/411",
-		"genre": "sport",
-		"url_image": "https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "|FR|  BeIN Sport Max 8 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/415",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Amazon prime 2",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/366",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Amazon prime 3",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/368",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Amazon prime 4",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/370",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Amazon prime 5",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/372",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Amazon prime 6",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/374",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Amazon prime 7",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/376",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Amazon prime 8",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/378",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Amazon prime 9",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/514",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Amazon prime 10",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/513",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | TF1",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/471",
-		"genre": "general",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT LIVE 1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/392",
-		"genre": "sport",
-		"url_image": "https://img.sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT 1 ACCESS",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/396",
-		"genre": "sport",
-		"url_image": "https://cdn.tv-programme.com/pic/chaines/124.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT 2 FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/397",
-		"genre": "sport",
-		"url_image": "https://img.sport-tv-guide.live/images/tv-station-rmc-sport-2-1428.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT LIVE 2 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/393",
-		"genre": "sport",
-		"url_image": "https://img.sport-tv-guide.live/images/tv-station-rmc-sport-2-1428.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "RMC Sport 3",
-		"url": "http://eaglecinema.xyz:88/00Il@StanleyLaurelslI/YX6RaNAgnAQajemFFzcB/7344",
-		"genre": "sport",
-		"url_image": "https://img.sport-tv-guide.live/images/tv-station-rmc-sport-3-1429.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | RMC SPORT 4",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/484",
-		"genre": "sport",
-		"url_image": "https://img.sport-tv-guide.live/images/tv-station-rmc-sport-4-1430.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT LIVE 4 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/395",
-		"genre": "sport",
-		"url_image": "https://img.sport-tv-guide.live/images/tv-station-rmc-sport-4-1430.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "Altice studio",
-		"url": "http://185.53.88.85:8008/sunshine/kjfr1aC8V22ooxweV-X_DUpabup1fMHA2fyhGzEIHFPnJ0x8erFm-03g9LNIWu7ZfACg38zWCLINFYJW3_Yn7i8WHWvsBBycc0-NHB47QTgOkWL7Lm3BWldA2xnjFbBPHlaHgX_nIs_zq7iks_DTC8LoLg7hf40BQeHiQ50WRHMJFfWzyqE0BDdikXgTM2Vo/v.ts",
-		"genre": "cinema",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/7/71/Altice_studio_logo.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| LCP HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/7505",
-		"genre": "info",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_LCP-AN_%282019%29.svg/1200px-Logo_LCP-AN_%282019%29.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RT France",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/6391",
-		"genre": "info",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/1200px-RT_France.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT LIVE 13 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3689",
-		"genre": "sport",
-		"url_image": "https://cdn.tv-programme.com/pic/chaines/146.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT LIVE 12 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3688",
-		"genre": "sport",
-		"url_image": "https://cdn.tv-programme.com/pic/chaines/145.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT LIVE 11 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3687",
-		"genre": "sport",
-		"url_image": "https://cdn.tv-programme.com/pic/chaines/144.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT LIVE 9 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3686",
-		"genre": "sport",
-		"url_image": "https://cdn.tv-programme.com/pic/chaines/154.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT LIVE 8 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3685",
-		"genre": "sport",
-		"url_image": "https://cdn.tv-programme.com/pic/chaines/153.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT LIVE 7 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3684",
-		"genre": "sport",
-		"url_image": "https://cdn.tv-programme.com/pic/chaines/152.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RMC SPORT LIVE 6 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3683",
-		"genre": "sport",
-		"url_image": "https://cdn.tv-programme.com/pic/chaines/151.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| EuroNews",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/515",
-		"genre": "info",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "Ciné➕ émotion",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/286",
-		"genre": "cinema",
-		"url_image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "Canal➕ cinéma",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/292",
-		"genre": "cinema",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Canal%2BCin%C3%A9ma2009.svg/500px-Canal%2BCin%C3%A9ma2009.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-
-	{
-		"title": "Canal ➕kids",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/294",
-		"genre": "jeunesse",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "RMC Découverte",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/271",
-		"genre": "divertissement",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1200px-RMC_D%C3%A9couverte_logo_2017.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "RMC Story",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/272",
-		"genre": "divertissement",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-
-	{
-		"title": "AF| Game One",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/477",
-		"genre": "jeunesse",
-		"url_image": "https://pbs.twimg.com/profile_images/1301088380009304066/7RHAiyyT_400x400.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "AF| Canal➕ Sport 1",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/383",
-		"genre": "sport",
-		"url_image": "https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-1-afrique-1364.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "AF| Canal➕ Sport 2",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/384",
-		"genre": "sport",
-		"url_image": "https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-2-africa-1496.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "AF| Canal➕ Sport 4",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/386",
-		"genre": "sport",
-		"url_image": "https://img.sport-tv-guide.live/images/tv-station-canal-sport-4-1884.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "AF| Canal➕ Sport 5",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/387",
-		"genre": "sport",
-		"url_image": "https://img.sport-tv-guide.live/images/tv-station-nsport-558.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Canal➕ Premier League",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/388",
-		"genre": "sport",
-		"url_image": "https://cdn.tv-programme.com/pic/chaines/168.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "L'Equipe 21",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/274",
-		"genre": "sport",
-		"url_image": "https://www.lesfouleesdugois.com/wp-content/uploads/2019/06/equipe21-foulees-du-gois.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "ARTE",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/258",
-		"genre": "documentaire",
-		"url_image": "https://www.movinmotion.com/wp-content/uploads/2017/05/arte-share-2.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "La chaîne météo",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/275",
-		"genre": "info",
-		"url_image": "https://www.tv-direct.fr/assets/logo/chaines/la-chaine-meteo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "BFM TV",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/279",
-		"genre": "info",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/600px-BFM_TV_logo.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "BFM Bussiness",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/280",
-		"genre": "info",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_BFM-Business.svg/1200px-Logo_BFM-Business.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "France 24",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/231",
-		"genre": "info",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Discovery Science",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/323",
-		"genre": "documentaire",
-		"url_image": "https://www.dlf.pt/dfpng/middlepng/250-2509768_discovery-science-logo-png-png-download-discovery-science.png",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "Discovery",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/324",
-		"genre": "documentaire",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "NatGeo Wild",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/330",
-		"genre": "documentaire",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "CANALPLAY 10 FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/511",
-		"genre": "cinema",
-		"url_image": "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "CANALPLAY 9 FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/510",
-		"genre": "cinema",
-		"url_image": "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "CANALPLAY 8 FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/509",
-		"genre": "cinema",
-		"url_image": "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "CANALPLAY 7 FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/508",
-		"genre": "cinema",
-		"url_image": "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "CANALPLAY 6 FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/507",
-		"genre": "cinema",
-		"url_image": "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "CANALPLAY 5 FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/506",
-		"genre": "cinema",
-		"url_image": "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "CANALPLAY 4 FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/505",
-		"genre": "cinema",
-		"url_image": "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "CANALPLAY 3 FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/504",
-		"genre": "cinema",
-		"url_image": "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "CANALPLAY 2 FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/503",
-		"genre": "cinema",
-		"url_image": "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "CANALPLAY 1 FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/502",
-		"genre": "cinema",
-		"url_image": "https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| LCI HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/501",
-		"genre": "info",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| BET HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/500",
-		"genre": "cinema",
-		"url_image": "https://logodownload.org/wp-content/uploads/2021/05/bet-channel-logo.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Action",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/499",
-		"genre": "cinema",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/2560px-Action_France_%282000%29.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | AB1",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/498",
-		"genre": "general",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_AB1_2021.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Cuisines",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/497",
-		"genre": "divertissement",
-		"url_image": "https://i.pinimg.com/736x/fe/e0/1b/fee01b2f24038798eaf65257e8ac9050--netherlands-food-plating.jpg",
-		"lang": "FR",
-		"url_load": ""
-	},
-	{
-		"title": "My Cuisine",
-		"url": "http://77.247.109.163:8008/sunshine/J3Fwld_78VCWGeXCy7HdciRAoRciaqapujLMUh9GLGznmj858MXY39XpGpzYdXRzDbZw9ajpySCfJFdP5q3evu8IuB2aWUyYxVMXH0ol_iVUOxRLtuT-WGJNWGveaj9UHtp9JeRe3MVnY2p1Sa2-Tr9dWAjJloHawdgK3OOoyRXCaOmZofuyjC3s_Yjv_L10/v.ts",
-		"genre": "divertissement",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/0/06/My_Cuisine_logo.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Canal➕ Family Ouest",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/496",
-		"genre": "cinema",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Canal➕ Elles Ouest",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/495",
-		"genre": "cinema",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/e/e8/Canal%2Belles-1.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Canal➕ Comedie Ouest",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/494",
-		"genre": "cinema",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/2/2c/Canal%2Bcom%C3%A9die.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Canal➕ Cinema Ouest",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/493",
-		"genre": "cinema",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/1200px-Canal%2B_Cin%C3%A9ma_2013.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Canal➕ Action Ouest",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/492",
-		"genre": "cinema",
-		"url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/C_More_Action.svg/langfr-150px-C_More_Action.svg.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Canal➕ Premiere",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/491",
-		"genre": "cinema",
-		"url_image": "https://alloforfait.fr/wp-content/uploads/2020/09/canal-premiere-300x200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Canal➕ Premiere",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/490",
-		"genre": "cinema",
-		"url_image": "https://alloforfait.fr/wp-content/uploads/2020/09/canal-premiere-300x200.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF| Canal ➕Sport HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/489",
-		"genre": "sport",
-		"url_image": "https://www.canal-sport.fr/sfThemeCanalSportPlugin/images/logo-white.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | A➕",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/488",
-		"genre": "general",
-		"url_image": "https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Automoto",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/487",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Eurosport 2",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/486",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Eurosport 1",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/485",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | NBA TV",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/483",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Zee Magic",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/482",
-		"genre": "musique",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Mangas",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/481",
-		"genre": "jeunesse",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Nickelodeon",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/480",
-		"genre": "jeunesse",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Ludikids",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/479",
-		"genre": "jeunesse",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | J-One",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/478",
-		"genre": "jeunesse",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Disney Junior",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/476",
-		"genre": "jeunesse",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Disney Channel",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/475",
-		"genre": "jeunesse",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | TV5",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/474",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | TREK",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/473",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | TFX",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/472",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | SyFy",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/470",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Sunu Yeuf",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/469",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | RTL 9",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/468",
-		"genre": "general",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | M6 International",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/467",
-		"genre": "general",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | LCI",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/466",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Gulli AFrica",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/465",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | France 24",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/464",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | France 2",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/463",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | ES1",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/462",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | English Club TV",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/461",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Cnews",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/460",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | C8",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/459",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Bblack Africa",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/458",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Piwi➕ HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/457",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TiJi HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/456",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Animaux HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/455",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| DISCOVERY HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/454",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Nat Geo Wild",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/453",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | National Geographic",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/452",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Toute L Histoire",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/451",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | MTV Hits",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/450",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | MTV France",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/449",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Trace rikora",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/448",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "A.F| Trace Urbanrique",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/447",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "A.F| Trace Gospel",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/446",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "A.F| Trace Urban",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/445",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "A.F| Trace Tropical",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/444",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "A.F| Trace Toca HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/443",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "A.F| Trace Gospel",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/442",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "A.F| Trace Naija",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/441",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "A.F| Trace Mziki",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/440",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "FR NETFLIX THRILLER FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/439",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "FR NETFLIX MOVIES FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/438",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "FR NETFLIX KIDS FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/437",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "FR NETFLIX HORROR FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/436",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "FR NETFLIX DRAMA FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/435",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "FR NETFLIX Discovery FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/434",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "FR NETFLIX COMEDY  FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/433",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "FR NETFLIX BOX OFFICE FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/432",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "FR NETFLIX ACTION FHD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/431",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Warner Bros HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/430",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR|  Mcm Top HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/429",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Tv8 Mont Blanc HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/428",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF |  Novelas Tv HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/427",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF |  A Plus HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/426",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| MEZZO LIVE HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/425",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| M6 Music Hits HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/424",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| LFM TV HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/423",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| MEZZO HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/422",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Tele Melody HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/421",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | NOLLYWOOD HD FR",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/420",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| MTV HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/419",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| MTV DANCE HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/418",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| BeIN Sport Max 10 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/417",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| BeIN Sport Max 9 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/416",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR|  BeIN Sport Max 8 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/415",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| BeIN Sport Max 7 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/414",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| BeIN Sport Max 6 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/413",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| BeIN Sport Max 5 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/412",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| MY ZEN TV HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/410",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OL TV HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/408",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "| FR | EXTREME SPORTS HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/407",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Golf➕ HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/406",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| GOLF CHANNEL HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/405",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Infosport➕ HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/404",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Foot➕ 24/24 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/403",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Equidia Life HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/402",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Equidia Live HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/401",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Eurosport 2 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/400",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Eurosport 1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/399",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Canal➕ LIGUE 1 HD➕",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/391",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Canal➕ LIGUE 1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/390",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Canal➕ Premier League HD➕",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/389",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Canal➕ Sport 3",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/385",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| AMAZON PRIME 8 HD (ONLY EVENTS)",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/379",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| AMAZON PRIME 7 HD (ONLY EVENTS)",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/377",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| AMAZON PRIME 6 HD (ONLY EVENTS)",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/375",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| AMAZON PRIME 5 HD (ONLY EVENTS",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/373",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| AMAZON PRIME 4 HD (ONLY EVENTS)",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/371",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| AMAZON PRIME 3 HD (ONLY EVENTS)",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/369",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| AMAZON PRIME 2 HD (ONLY EVENTS)",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/367",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR|AMAZON PRIME 1 HD..",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/365",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR|  AMAZON PRIME 1 HD (ONLY EVENTS)",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/364",
-		"genre": "sport",
-		"url_image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| J-ONE HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/362",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Game One Pus HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/361",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Game One HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/360",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RTS 2 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/359",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| RTS 1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/358",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Disney Junior HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/357",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Disney Channel Fr Pus HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/356",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Disney Channel HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/355",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Cartoon Network HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/354",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Canal J HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/353",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Nickelodeon Jr HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/352",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| NICKELODEON 4 Teen HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/351",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Nickelodeon ➕1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/350",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| NICKELODEON HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/349",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Nick Jr HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/348",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Manga HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/347",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Teletoon ➕1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/346",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Teletoon➕ HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/345",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR|  Toute l Histoire",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/344",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Boomerang plus HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/343",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Boomerang HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/342",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Boing HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/341",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Gulli HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/340",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TOONAMI HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/339",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Tiji",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/338",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "AF | Piwi➕",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/337",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| HISTOIRE",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/336",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TREK HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/335",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TOUTE HISTOIRE HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/334",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Planete➕ C.I. HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/333",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Planete ➕ A.E HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/332",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Planete➕ HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/331",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Nat Geo  HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/329",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| SCIENCE VIE TV HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/328",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| CHASSE ET PECHE",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/327",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| DISCOVERY ID HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/325",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Ushuaia TV HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/322",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| SyFy Universal HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/321",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Serie Club HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/320",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Seasons HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/319",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TV BREIZH HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/318",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Paris Premiere HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/317",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Paramount Channel Decale HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/316",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Paramount Channel HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/315",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| CRIME DISTRICT HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/314",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Comedie➕ HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/313",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS Go Cinema 10 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/312",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS Go Cinema 7 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/309",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS Go Cinema 6 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/308",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS Go Cinema 5 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/307",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS Go Cinema 4 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/306",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS Go Cinema 3 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/305",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS Go Cinema 2 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/304",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS Go Cinema 1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/303",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS Geants HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/302",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS City HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/301",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS Choc HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/300",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| OCS Max HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/299",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TCM CINEMA HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/298",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| POLAR PLUS HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/297",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Canal➕ Sport HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/296",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Canal➕ Series HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/295",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Canal➕ Decale HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/293",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Canal ➕ HD➕",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/291",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Canal➕ HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/290",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TV5 Monde Maghreb HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/289",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Cine➕ Classic HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/288",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Cine➕ Club HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/287",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Cine➕ Famiz HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/285",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Cine➕ Frisson HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/284",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Cine➕ Premier HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/283",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TV5 Monde maghreb orient HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/282",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TV5 Mondestyle HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/281",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| I24 NEWS FRENCH HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/278",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| France Info HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/277",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| C NEWS HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/276",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FRANCE 24 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/273",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| COMEDY CENTRAL HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/270",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TMC ➕1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/269",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TMC HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/268",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| NRJ 12 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/267",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Cherie 25 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/266",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| CLIQUE TV HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/265",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| MCM HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/264",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "| FR | AB3 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/263",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| AB1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/262",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| E HD France",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/261",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| CStar HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/260",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| C8 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/259",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| ACTION HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/257",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| Teva HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/256",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| 13eme Rue HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/255",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| 6TER HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/254",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| W9 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/253",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FRANCE O",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/252",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| France 5 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/251",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| France 4 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/250",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| France 3 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/249",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| France 2 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/248",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TFX HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/247",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TF1 SIERES HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/246",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TF1 ➕1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/245",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| TF1 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/244",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| M6 HD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/243",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX KIDS CAILLOU",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/859",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX KIDS COCOMELON",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/860",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX KIDS OGGY AND CAFARD",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/861",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX KIDS PYJAMASQUES",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/862",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX KIDS SCOOBY-DOO",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/863",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX KIDS SHAUN THE SHEEP",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/864",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX KIDS THE SMURFS",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/865",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX KIDS ZIG AND SHARKO",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/866",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX MOVIES COMEDY",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/867",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX MOVIES JACKIE CHAN",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/868",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX MOVIES JIM CARREY",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/869",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX MOVIES JOHN TRAVOLTA",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/870",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX MOVIES MEL GIBSON",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/871",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX MOVIES NICOLAS CAGE",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/872",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}, {
-		"title": "|FR| FLIX MOVIES VAN DAMME",
-		"url": "http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/873",
-		"genre": "sport",
-		"url_image": "",
-		"lang": "FR",
-		"url_load": ""
-	}
+[
+   {
+      "title":"Amazon prime 1",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/363",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| beIN Sports 1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/380",
+      "genre":"sport",
+      "url_image":"https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| beIN Sports 2 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/381",
+      "genre":"sport",
+      "url_image":"https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| beIN Sports 3 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/382",
+      "genre":"sport",
+      "url_image":"https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| BeIN Sport Max 4 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/411",
+      "genre":"sport",
+      "url_image":"https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR|  BeIN Sport Max 8 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/415",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Amazon prime 2",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/366",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Amazon prime 3",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/368",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Amazon prime 4",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/370",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Amazon prime 5",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/372",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Amazon prime 6",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/374",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Amazon prime 7",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/376",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Amazon prime 8",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/378",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Amazon prime 9",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/514",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Amazon prime 10",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/513",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | TF1",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/471",
+      "genre":"general",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT LIVE 1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/392",
+      "genre":"sport",
+      "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT 1 ACCESS",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/396",
+      "genre":"sport",
+      "url_image":"https://cdn.tv-programme.com/pic/chaines/124.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT 2 FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/397",
+      "genre":"sport",
+      "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-2-1428.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT LIVE 2 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/393",
+      "genre":"sport",
+      "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-2-1428.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"RMC Sport 3",
+      "url":"http://eaglecinema.xyz:88/00Il@StanleyLaurelslI/YX6RaNAgnAQajemFFzcB/7344",
+      "genre":"sport",
+      "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-3-1429.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | RMC SPORT 4",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/484",
+      "genre":"sport",
+      "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-4-1430.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT LIVE 4 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/395",
+      "genre":"sport",
+      "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-4-1430.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Altice studio",
+      "url":"http://185.53.88.85:8008/sunshine/kjfr1aC8V22ooxweV-X_DUpabup1fMHA2fyhGzEIHFPnJ0x8erFm-03g9LNIWu7ZfACg38zWCLINFYJW3_Yn7i8WHWvsBBycc0-NHB47QTgOkWL7Lm3BWldA2xnjFbBPHlaHgX_nIs_zq7iks_DTC8LoLg7hf40BQeHiQ50WRHMJFfWzyqE0BDdikXgTM2Vo/v.ts",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/7/71/Altice_studio_logo.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| LCP HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/7505",
+      "genre":"info",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_LCP-AN_%282019%29.svg/1200px-Logo_LCP-AN_%282019%29.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RT France",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/6391",
+      "genre":"info",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/1200px-RT_France.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT LIVE 13 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3689",
+      "genre":"sport",
+      "url_image":"https://cdn.tv-programme.com/pic/chaines/146.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT LIVE 12 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3688",
+      "genre":"sport",
+      "url_image":"https://cdn.tv-programme.com/pic/chaines/145.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT LIVE 11 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3687",
+      "genre":"sport",
+      "url_image":"https://cdn.tv-programme.com/pic/chaines/144.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT LIVE 9 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3686",
+      "genre":"sport",
+      "url_image":"https://cdn.tv-programme.com/pic/chaines/154.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT LIVE 8 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3685",
+      "genre":"sport",
+      "url_image":"https://cdn.tv-programme.com/pic/chaines/153.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT LIVE 7 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3684",
+      "genre":"sport",
+      "url_image":"https://cdn.tv-programme.com/pic/chaines/152.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RMC SPORT LIVE 6 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/3683",
+      "genre":"sport",
+      "url_image":"https://cdn.tv-programme.com/pic/chaines/151.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| EuroNews",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/515",
+      "genre":"info",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Ciné➕ émotion",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/286",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Canal➕ cinéma",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/292",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Canal%2BCin%C3%A9ma2009.svg/500px-Canal%2BCin%C3%A9ma2009.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Canal ➕kids",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/294",
+      "genre":"jeunesse",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"RMC Découverte",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/271",
+      "genre":"divertissement",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1200px-RMC_D%C3%A9couverte_logo_2017.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"RMC Story",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/272",
+      "genre":"divertissement",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF| Game One",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/477",
+      "genre":"jeunesse",
+      "url_image":"https://pbs.twimg.com/profile_images/1301088380009304066/7RHAiyyT_400x400.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF| Canal➕ Sport 1",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/383",
+      "genre":"sport",
+      "url_image":"https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-1-afrique-1364.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF| Canal➕ Sport 2",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/384",
+      "genre":"sport",
+      "url_image":"https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-2-africa-1496.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF| Canal➕ Sport 4",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/386",
+      "genre":"sport",
+      "url_image":"https://img.sport-tv-guide.live/images/tv-station-canal-sport-4-1884.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF| Canal➕ Sport 5",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/387",
+      "genre":"sport",
+      "url_image":"https://img.sport-tv-guide.live/images/tv-station-nsport-558.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Canal➕ Premier League",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/388",
+      "genre":"sport",
+      "url_image":"https://cdn.tv-programme.com/pic/chaines/168.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"L'Equipe 21",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/274",
+      "genre":"sport",
+      "url_image":"https://www.lesfouleesdugois.com/wp-content/uploads/2019/06/equipe21-foulees-du-gois.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"ARTE",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/258",
+      "genre":"documentaire",
+      "url_image":"https://www.movinmotion.com/wp-content/uploads/2017/05/arte-share-2.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"La chaîne météo",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/275",
+      "genre":"info",
+      "url_image":"https://www.tv-direct.fr/assets/logo/chaines/la-chaine-meteo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"BFM TV",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/279",
+      "genre":"info",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/600px-BFM_TV_logo.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"BFM Bussiness",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/280",
+      "genre":"info",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_BFM-Business.svg/1200px-Logo_BFM-Business.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"France 24",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/231",
+      "genre":"info",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Discovery Science",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/323",
+      "genre":"documentaire",
+      "url_image":"https://www.dlf.pt/dfpng/middlepng/250-2509768_discovery-science-logo-png-png-download-discovery-science.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"Discovery",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/324",
+      "genre":"documentaire",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"NatGeo Wild",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/330",
+      "genre":"documentaire",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"CANALPLAY 10 FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/511",
+      "genre":"cinema",
+      "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"CANALPLAY 9 FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/510",
+      "genre":"cinema",
+      "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"CANALPLAY 8 FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/509",
+      "genre":"cinema",
+      "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"CANALPLAY 7 FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/508",
+      "genre":"cinema",
+      "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"CANALPLAY 6 FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/507",
+      "genre":"cinema",
+      "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"CANALPLAY 5 FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/506",
+      "genre":"cinema",
+      "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"CANALPLAY 4 FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/505",
+      "genre":"cinema",
+      "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"CANALPLAY 3 FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/504",
+      "genre":"cinema",
+      "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"CANALPLAY 2 FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/503",
+      "genre":"cinema",
+      "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"CANALPLAY 1 FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/502",
+      "genre":"cinema",
+      "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| LCI HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/501",
+      "genre":"info",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| BET HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/500",
+      "genre":"cinema",
+      "url_image":"https://logodownload.org/wp-content/uploads/2021/05/bet-channel-logo.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Action",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/499",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/2560px-Action_France_%282000%29.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | AB1",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/498",
+      "genre":"general",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_AB1_2021.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Cuisines",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/497",
+      "genre":"divertissement",
+      "url_image":"https://i.pinimg.com/736x/fe/e0/1b/fee01b2f24038798eaf65257e8ac9050--netherlands-food-plating.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"My Cuisine",
+      "url":"http://77.247.109.163:8008/sunshine/J3Fwld_78VCWGeXCy7HdciRAoRciaqapujLMUh9GLGznmj858MXY39XpGpzYdXRzDbZw9ajpySCfJFdP5q3evu8IuB2aWUyYxVMXH0ol_iVUOxRLtuT-WGJNWGveaj9UHtp9JeRe3MVnY2p1Sa2-Tr9dWAjJloHawdgK3OOoyRXCaOmZofuyjC3s_Yjv_L10/v.ts",
+      "genre":"divertissement",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/0/06/My_Cuisine_logo.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Canal➕ Family Ouest",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/496",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Canal➕ Elles Ouest",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/495",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/e/e8/Canal%2Belles-1.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Canal➕ Comedie Ouest",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/494",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/2/2c/Canal%2Bcom%C3%A9die.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Canal➕ Cinema Ouest",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/493",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/1200px-Canal%2B_Cin%C3%A9ma_2013.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Canal➕ Action Ouest",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/492",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/C_More_Action.svg/langfr-150px-C_More_Action.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Canal➕ Premiere",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/491",
+      "genre":"cinema",
+      "url_image":"https://alloforfait.fr/wp-content/uploads/2020/09/canal-premiere-300x200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Canal➕ Premiere",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/490",
+      "genre":"cinema",
+      "url_image":"https://alloforfait.fr/wp-content/uploads/2020/09/canal-premiere-300x200.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF| Canal ➕Sport HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/489",
+      "genre":"sport",
+      "url_image":"https://www.canal-sport.fr/sfThemeCanalSportPlugin/images/logo-white.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | A➕",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/488",
+      "genre":"serie",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Automoto",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/487",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Eurosport 2",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/486",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Eurosport 1",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/485",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | NBA TV",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/483",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Zee Magic",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/482",
+      "genre":"divertissement",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Mangas",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/481",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Nickelodeon",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/480",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Ludikids",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/479",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | J-One",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/478",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Disney Junior",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/476",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Disney Channel",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/475",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | TV5",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/474",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | TREK",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/473",
+      "genre":"divertissement",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | TFX",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/472",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | SyFy",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/470",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Sunu Yeuf",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/469",
+      "genre":"divertissement",
+      "url_image":"https://www.lebouquetafricain.com/images/chaines/sunu-yeuf.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | RTL 9",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/468",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | M6 International",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/467",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | LCI",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/466",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Gulli AFrica",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/465",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | France 24",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/464",
+      "genre":"info",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | France 2",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/463",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | ES1",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/462",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | English Club TV",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/461",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Cnews",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/460",
+      "genre":"info",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | C8",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/459",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Bblack Africa",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/458",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Piwi➕ HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/457",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TiJi HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/456",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Animaux HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/455",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| DISCOVERY HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/454",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Nat Geo Wild",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/453",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | National Geographic",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/452",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Toute L Histoire",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/451",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | MTV Hits",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/450",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | MTV France",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/449",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Trace rikora",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/448",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"A.F| Trace Urbanrique",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/447",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"A.F| Trace Gospel",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/446",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"A.F| Trace Urban",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/445",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"A.F| Trace Tropical",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/444",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"A.F| Trace Toca HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/443",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"A.F| Trace Gospel",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/442",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"A.F| Trace Naija",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/441",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"A.F| Trace Mziki",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/440",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"FR NETFLIX THRILLER FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/439",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"FR NETFLIX MOVIES FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/438",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"FR NETFLIX KIDS FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/437",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"FR NETFLIX HORROR FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/436",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"FR NETFLIX DRAMA FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/435",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"FR NETFLIX Discovery FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/434",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"FR NETFLIX COMEDY  FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/433",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"FR NETFLIX BOX OFFICE FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/432",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"FR NETFLIX ACTION FHD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/431",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Warner Bros HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/430",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR|  Mcm Top HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/429",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Tv8 Mont Blanc HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/428",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF |  Novelas Tv HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/427",
+      "genre":"serie",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/langfr-150px-Logo_Novelas_TV.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF |  A Plus HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/426",
+      "genre":"serie",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| MEZZO LIVE HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/425",
+      "genre":"musique",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/langfr-200px-Mezzo_Logo.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| M6 Music Hits HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/424",
+      "genre":"musique",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/M6_Music_2018.png/190px-M6_Music_2018.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| LFM TV HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/423",
+      "genre":"musique",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/7/70/LFMTV.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| MEZZO HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/422",
+      "genre":"musique",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/langfr-200px-Mezzo_Logo.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Tele Melody HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/421",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | NOLLYWOOD HD FR",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/420",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| MTV HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/419",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| MTV DANCE HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/418",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| BeIN Sport Max 10 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/417",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| BeIN Sport Max 9 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/416",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR|  BeIN Sport Max 8 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/415",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| BeIN Sport Max 7 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/414",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| BeIN Sport Max 6 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/413",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| BeIN Sport Max 5 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/412",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| MY ZEN TV HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/410",
+      "genre":"divertissement",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OL TV HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/408",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"| FR | EXTREME SPORTS HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/407",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Golf➕ HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/406",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| GOLF CHANNEL HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/405",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Infosport➕ HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/404",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Foot➕ 24/24 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/403",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Equidia Life HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/402",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Equidia Live HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/401",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Eurosport 2 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/400",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Eurosport 1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/399",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Canal➕ LIGUE 1 HD➕",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/391",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Canal➕ LIGUE 1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/390",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Canal➕ Premier League HD➕",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/389",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Canal➕ Sport 3",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/385",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| AMAZON PRIME 8 HD (ONLY EVENTS)",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/379",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| AMAZON PRIME 7 HD (ONLY EVENTS)",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/377",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| AMAZON PRIME 6 HD (ONLY EVENTS)",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/375",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| AMAZON PRIME 5 HD (ONLY EVENTS",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/373",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| AMAZON PRIME 4 HD (ONLY EVENTS)",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/371",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| AMAZON PRIME 3 HD (ONLY EVENTS)",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/369",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| AMAZON PRIME 2 HD (ONLY EVENTS)",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/367",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR|AMAZON PRIME 1 HD..",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/365",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR|  AMAZON PRIME 1 HD (ONLY EVENTS)",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/364",
+      "genre":"sport",
+      "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| J-ONE HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/362",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Game One Pus HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/361",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Game One HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/360",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RTS 2 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/359",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| RTS 1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/358",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Disney Junior HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/357",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Disney Channel ➕ HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/356",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Disney Channel HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/355",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Cartoon Network HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/354",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Canal J HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/353",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Nickelodeon Jr HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/352",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| NICKELODEON 4 Teen HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/351",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Nickelodeon ➕1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/350",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| NICKELODEON HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/349",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Nick Jr HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/348",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Manga HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/347",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Teletoon ➕1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/346",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Teletoon➕ HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/345",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR|  Toute l Histoire",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/344",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Boomerang plus HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/343",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Boomerang HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/342",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Boing HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/341",
+      "genre":"jeunesse",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_Boing.png/120px-Logo_Boing.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Gulli HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/340",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TOONAMI HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/339",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Tiji",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/338",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"AF | Piwi➕",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/337",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| HISTOIRE",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/336",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TREK HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/335",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TOUTE HISTOIRE HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/334",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Planete➕ C.I. HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/333",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Planete ➕ A.E HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/332",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Planete➕ HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/331",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Nat Geo  HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/329",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| SCIENCE VIE TV HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/328",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| CHASSE ET PECHE",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/327",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| DISCOVERY ID HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/325",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Ushuaia TV HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/322",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| SyFy Universal HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/321",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Serie Club HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/320",
+      "genre":"serie",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Seasons HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/319",
+      "genre":"serie",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TV BREIZH HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/318",
+      "genre":"general",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/TV_Breizh_logo_2019.svg/langfr-250px-TV_Breizh_logo_2019.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Paris Premiere HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/317",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Paramount Channel Decale HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/316",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/langfr-130px-Paramount_Channel.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Paramount Channel HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/315",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/langfr-130px-Paramount_Channel.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| CRIME DISTRICT HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/314",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Comedie➕ HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/313",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS Go Cinema 10 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/312",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS Go Cinema 7 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/309",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS Go Cinema 6 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/308",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS Go Cinema 5 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/307",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS Go Cinema 4 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/306",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS Go Cinema 3 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/305",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS Go Cinema 2 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/304",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS Go Cinema 1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/303",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS Geants HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/302",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS City HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/301",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS Choc HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/300",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| OCS Max HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/299",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TCM CINEMA HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/298",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| POLAR PLUS HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/297",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Polar%2B_%28Logo%29.png/220px-Polar%2B_%28Logo%29.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Canal➕ Sport HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/296",
+      "genre":"sport",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Canal➕ Series HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/295",
+      "genre":"serie",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Canal➕ Decale HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/293",
+      "genre":"cinema",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg/120px-Canal%2B_D%C3%A9cal%C3%A9_2013.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Canal ➕ HD➕",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/291",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Canal➕ HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/290",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TV5 Monde Maghreb HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/289",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Cine➕ Classic HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/288",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Cine➕ Club HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/287",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Cine➕ Famiz HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/285",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Cine➕ Frisson HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/284",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Cine➕ Premier HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/283",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TV5 Monde maghreb orient HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/282",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TV5 Mondestyle HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/281",
+      "genre":"documentaire",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| I24 NEWS FRENCH HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/278",
+      "genre":"info",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| France Info HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/277",
+      "genre":"info",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| C NEWS HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/276",
+      "genre":"info",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FRANCE 24 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/273",
+      "genre":"info",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| COMEDY CENTRAL HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/270",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TMC ➕1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/269",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TMC HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/268",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| NRJ 12 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/267",
+      "genre":"musique",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Cherie 25 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/266",
+      "genre":"divertissement",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/langfr-120px-Ch%C3%A9rie_25_logo_2015.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| CLIQUE TV HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/265",
+      "genre":"divertissement ",
+      "url_image":"https://www.clique.tv/wp-content/uploads/2020/10/clique-tv-nouvelle-saison-2020-2021-1200x675.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| MCM HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/264",
+      "genre":"musique",
+      "url_image":"https://i.ytimg.com/vi/_TWYspZGWSk/maxresdefault.jpg",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"| FR | AB3 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/263",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| AB1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/262",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| E HD France",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/261",
+      "genre":"divertissement",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/E%21_logo_2012.png/40px-E%21_logo_2012.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| CStar HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/260",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| C8 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/259",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| ACTION HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/257",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| Teva HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/256",
+      "genre":"general",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/langfr-100px-T%C3%A9va_logo_2021.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| 13eme Rue HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/255",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| 6TER HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/254",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| W9 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/253",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FRANCE O",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/252",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| France 5 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/251",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| France 4 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/250",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| France 3 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/249",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| France 2 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/248",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TFX HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/247",
+      "genre":"general",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/langfr-150px-TFX_logo_2018.svg.png",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TF1 SIERES HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/246",
+      "genre":"serie",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TF1 ➕1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/245",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| TF1 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/244",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| M6 HD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/243",
+      "genre":"general",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX KIDS CAILLOU",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/859",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX KIDS COCOMELON",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/860",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX KIDS OGGY AND CAFARD",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/861",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX KIDS PYJAMASQUES",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/862",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX KIDS SCOOBY-DOO",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/863",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX KIDS SHAUN THE SHEEP",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/864",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX KIDS THE SMURFS",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/865",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX KIDS ZIG AND SHARKO",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/866",
+      "genre":"jeunesse",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX MOVIES COMEDY",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/867",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX MOVIES JACKIE CHAN",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/868",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX MOVIES JIM CARREY",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/869",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX MOVIES JOHN TRAVOLTA",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/870",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX MOVIES MEL GIBSON",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/871",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX MOVIES NICOLAS CAGE",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/872",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   },
+   {
+      "title":"|FR| FLIX MOVIES VAN DAMME",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/873",
+      "genre":"cinema",
+      "url_image":"",
+      "lang":"FR",
+      "url_load":""
+   }
 ]
