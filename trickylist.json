@@ -623,6 +623,14 @@
       "lang":"FR",
       "url_load":""
    },
+     {
+      "title":"AF |  A➕",
+      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/426",
+      "genre":"serie",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png",
+      "lang":"FR",
+      "url_load":""
+   },
    {
       "title":"AF | A➕",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/488",
@@ -896,7 +904,7 @@
       "url_load":""
    },
    {
-      "title":"AF | Toute L Histoire",
+      "title":"AF | Toute l'histoire",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/451",
       "genre":"documentaire",
       "url_image":"",
@@ -904,17 +912,17 @@
       "url_load":""
    },
    {
-      "title":"AF | MTV Hits",
+      "title":"AF | Toute l'histoire",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/450",
-      "genre":"musique",
+      "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
       "url_load":""
    },
    {
-      "title":"AF | MTV France",
+      "title":"AF | Toute l'histoire",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/449",
-      "genre":"musique",
+      "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
       "url_load":""
@@ -1095,14 +1103,7 @@
       "lang":"FR",
       "url_load":""
    },
-   {
-      "title":"AF |  A Plus HD",
-      "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/426",
-      "genre":"serie",
-      "url_image":"https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png",
-      "lang":"FR",
-      "url_load":""
-   },
+ 
    {
       "title":"|FR| MEZZO LIVE HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/425",
