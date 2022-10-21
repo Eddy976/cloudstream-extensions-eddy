@@ -5,7 +5,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg"
    },
    {
       "title":"|FR| beIN Sports 1 HD",
@@ -13,7 +13,7 @@
       "genre":"sport",
       "url_image":"https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/800px-Bein_sport_logo.svg.png?20160411124004"
    },
    {
       "title":"|FR| beIN Sports 2 HD",
@@ -21,7 +21,7 @@
       "genre":"sport",
       "url_image":"https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| beIN Sports 3 HD",
@@ -29,7 +29,7 @@
       "genre":"sport",
       "url_image":"https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| BeIN Sport Max 4 HD",
@@ -37,7 +37,7 @@
       "genre":"sport",
       "url_image":"https://i.pinimg.com/originals/a0/43/db/a043dbc85718717667b2ebed29fd6185.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR|  BeIN Sport Max 8 HD",
@@ -45,7 +45,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Amazon prime 2",
@@ -53,7 +53,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Amazon prime 3",
@@ -61,7 +61,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Amazon prime 4",
@@ -69,7 +69,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Amazon prime 5",
@@ -77,7 +77,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Amazon prime 6",
@@ -85,7 +85,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Amazon prime 7",
@@ -93,7 +93,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Amazon prime 8",
@@ -101,7 +101,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Amazon prime 9",
@@ -109,7 +109,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Amazon prime 10",
@@ -117,7 +117,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | TF1",
@@ -125,7 +125,7 @@
       "genre":"general",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RMC SPORT LIVE 1 HD",
@@ -133,7 +133,7 @@
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/800px-Logo_RMC_Sport_2018.svg.png"
    },
    {
       "title":"|FR| RMC SPORT 1 ACCESS",
@@ -141,7 +141,7 @@
       "genre":"sport",
       "url_image":"https://cdn.tv-programme.com/pic/chaines/124.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RMC SPORT 2 FHD",
@@ -149,7 +149,7 @@
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-2-1428.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RMC SPORT LIVE 2 HD",
@@ -157,7 +157,7 @@
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-2-1428.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"RMC Sport 3",
@@ -165,7 +165,7 @@
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-3-1429.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | RMC SPORT 4",
@@ -173,7 +173,7 @@
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-4-1430.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RMC SPORT LIVE 4 HD",
@@ -181,7 +181,7 @@
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-rmc-sport-4-1430.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Altice studio",
@@ -189,7 +189,7 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/7/71/Altice_studio_logo.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| LCP HD",
@@ -197,7 +197,7 @@
       "genre":"info",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_LCP-AN_%282019%29.svg/1200px-Logo_LCP-AN_%282019%29.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RT France",
@@ -205,7 +205,7 @@
       "genre":"info",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/1200px-RT_France.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RMC SPORT LIVE 13 HD",
@@ -213,7 +213,7 @@
       "genre":"sport",
       "url_image":"https://cdn.tv-programme.com/pic/chaines/146.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RMC SPORT LIVE 12 HD",
@@ -221,7 +221,7 @@
       "genre":"sport",
       "url_image":"https://cdn.tv-programme.com/pic/chaines/145.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RMC SPORT LIVE 11 HD",
@@ -229,7 +229,7 @@
       "genre":"sport",
       "url_image":"https://cdn.tv-programme.com/pic/chaines/144.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RMC SPORT LIVE 9 HD",
@@ -237,7 +237,7 @@
       "genre":"sport",
       "url_image":"https://cdn.tv-programme.com/pic/chaines/154.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RMC SPORT LIVE 8 HD",
@@ -245,7 +245,7 @@
       "genre":"sport",
       "url_image":"https://cdn.tv-programme.com/pic/chaines/153.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RMC SPORT LIVE 7 HD",
@@ -253,7 +253,7 @@
       "genre":"sport",
       "url_image":"https://cdn.tv-programme.com/pic/chaines/152.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RMC SPORT LIVE 6 HD",
@@ -261,7 +261,7 @@
       "genre":"sport",
       "url_image":"https://cdn.tv-programme.com/pic/chaines/151.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| EuroNews",
@@ -269,15 +269,15 @@
       "genre":"info",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"Ciné➕ émotion",
+      "title":"Canal➕ Ciné➕ émotion",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/286",
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/langfr-220px-Canal%2B.svg.png"
    },
    {
       "title":"Canal➕ cinéma",
@@ -285,15 +285,15 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Canal%2BCin%C3%A9ma2009.svg/500px-Canal%2BCin%C3%A9ma2009.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/langfr-220px-Canal%2B.svg.png"
    },
    {
-      "title":"Canal ➕kids",
+      "title":"Canal➕ kids",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/294",
       "genre":"jeunesse",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/langfr-220px-Canal%2B.svg.png"
    },
    {
       "title":"RMC Découverte",
@@ -301,7 +301,7 @@
       "genre":"divertissement",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1200px-RMC_D%C3%A9couverte_logo_2017.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"RMC Story",
@@ -309,15 +309,15 @@
       "genre":"general",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"AF| Game One",
+      "title":"AF| GameOne",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/477",
       "genre":"jeunesse",
       "url_image":"https://pbs.twimg.com/profile_images/1301088380009304066/7RHAiyyT_400x400.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://pbs.twimg.com/profile_images/1301088380009304066/7RHAiyyT_400x400.jpg"
    },
    {
       "title":"AF| Canal➕ Sport 1",
@@ -325,7 +325,7 @@
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-1-afrique-1364.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-220px-Canal%2B_Sport_%282013%29.svg.png"
    },
    {
       "title":"AF| Canal➕ Sport 2",
@@ -333,7 +333,7 @@
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-2-africa-1496.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF| Canal➕ Sport 4",
@@ -341,7 +341,7 @@
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-canal-sport-4-1884.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF| Canal➕ Sport 5",
@@ -349,7 +349,7 @@
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-nsport-558.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Canal➕ Premier League",
@@ -357,7 +357,7 @@
       "genre":"sport",
       "url_image":"https://cdn.tv-programme.com/pic/chaines/168.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"L'Equipe 21",
@@ -365,7 +365,7 @@
       "genre":"sport",
       "url_image":"https://www.lesfouleesdugois.com/wp-content/uploads/2019/06/equipe21-foulees-du-gois.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"ARTE",
@@ -373,7 +373,7 @@
       "genre":"documentaire",
       "url_image":"https://www.movinmotion.com/wp-content/uploads/2017/05/arte-share-2.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"La chaîne météo",
@@ -381,7 +381,7 @@
       "genre":"info",
       "url_image":"https://www.tv-direct.fr/assets/logo/chaines/la-chaine-meteo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"BFM TV",
@@ -389,7 +389,7 @@
       "genre":"info",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/600px-BFM_TV_logo.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"BFM Bussiness",
@@ -397,7 +397,7 @@
       "genre":"info",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_BFM-Business.svg/1200px-Logo_BFM-Business.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"France 24",
@@ -405,7 +405,7 @@
       "genre":"info",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"Discovery Science",
@@ -413,7 +413,7 @@
       "genre":"documentaire",
       "url_image":"https://www.dlf.pt/dfpng/middlepng/250-2509768_discovery-science-logo-png-png-download-discovery-science.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://img2.freepng.fr/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg"
    },
    {
       "title":"Discovery",
@@ -421,7 +421,7 @@
       "genre":"documentaire",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"NatGeo Wild",
@@ -429,7 +429,7 @@
       "genre":"documentaire",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://pluspng.com/img-png/national-geographic-logo-png--1900.jpg"
    },
    {
       "title":"CANALPLAY 10 FHD",
@@ -437,7 +437,7 @@
       "genre":"cinema",
       "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"CANALPLAY 9 FHD",
@@ -445,7 +445,7 @@
       "genre":"cinema",
       "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"CANALPLAY 8 FHD",
@@ -453,7 +453,7 @@
       "genre":"cinema",
       "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"CANALPLAY 7 FHD",
@@ -461,7 +461,7 @@
       "genre":"cinema",
       "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"CANALPLAY 6 FHD",
@@ -469,7 +469,7 @@
       "genre":"cinema",
       "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"CANALPLAY 5 FHD",
@@ -477,7 +477,7 @@
       "genre":"cinema",
       "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"CANALPLAY 4 FHD",
@@ -485,7 +485,7 @@
       "genre":"cinema",
       "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"CANALPLAY 3 FHD",
@@ -493,7 +493,7 @@
       "genre":"cinema",
       "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"CANALPLAY 2 FHD",
@@ -501,7 +501,7 @@
       "genre":"cinema",
       "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"CANALPLAY 1 FHD",
@@ -509,7 +509,7 @@
       "genre":"cinema",
       "url_image":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/06/canal-play-logo__w1200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| LCI HD",
@@ -517,7 +517,7 @@
       "genre":"info",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| BET HD",
@@ -525,7 +525,7 @@
       "genre":"cinema",
       "url_image":"https://logodownload.org/wp-content/uploads/2021/05/bet-channel-logo.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Action",
@@ -533,15 +533,15 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/2560px-Action_France_%282000%29.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"AF | AB1",
+      "title":"AF | AB 1",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/498",
       "genre":"general",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_AB1_2021.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Cuisines",
@@ -549,7 +549,7 @@
       "genre":"divertissement",
       "url_image":"https://i.pinimg.com/736x/fe/e0/1b/fee01b2f24038798eaf65257e8ac9050--netherlands-food-plating.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"My Cuisine",
@@ -557,7 +557,7 @@
       "genre":"divertissement",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/0/06/My_Cuisine_logo.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Canal➕ Family Ouest",
@@ -565,7 +565,7 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Canal➕ Elles Ouest",
@@ -573,7 +573,7 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/e/e8/Canal%2Belles-1.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Canal➕ Comedie Ouest",
@@ -581,7 +581,7 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/2/2c/Canal%2Bcom%C3%A9die.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Canal➕ Cinema Ouest",
@@ -589,7 +589,7 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/1200px-Canal%2B_Cin%C3%A9ma_2013.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Canal➕ Action Ouest",
@@ -597,7 +597,7 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/C_More_Action.svg/langfr-150px-C_More_Action.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Canal➕ Premiere",
@@ -605,7 +605,7 @@
       "genre":"cinema",
       "url_image":"https://alloforfait.fr/wp-content/uploads/2020/09/canal-premiere-300x200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Canal➕ Premiere",
@@ -613,23 +613,23 @@
       "genre":"cinema",
       "url_image":"https://alloforfait.fr/wp-content/uploads/2020/09/canal-premiere-300x200.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"AF| Canal ➕Sport HD",
+      "title":"AF| Canal➕ +Sport HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/489",
       "genre":"sport",
       "url_image":"https://www.canal-sport.fr/sfThemeCanalSportPlugin/images/logo-white.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
      {
-      "title":"AF |  A➕",
+      "title":"AF | A➕",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/426",
       "genre":"serie",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | A➕",
@@ -637,7 +637,7 @@
       "genre":"serie",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Automoto",
@@ -645,7 +645,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Eurosport 2",
@@ -653,7 +653,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://moto-station.com/wp-content/uploads/2015/01/2000px-Eurosport_Logo.svg_-598x376.jpg"
    },
    {
       "title":"AF | Eurosport 1",
@@ -661,39 +661,39 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://moto-station.com/wp-content/uploads/2015/01/2000px-Eurosport_Logo.svg_-598x376.jpg"
    },
    {
       "title":"AF | NBA TV",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/483",
       "genre":"sport",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Zee Magic",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/482",
       "genre":"divertissement",
-      "url_image":"",
+      "url_image":"https://starsat.co.za/wp-content/uploads/2019/10/ZEE-Magic.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Mangas",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/481",
       "genre":"jeunesse",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_(2015).svg/1200px-Mangas_(2015).svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Nickelodeon",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/480",
       "genre":"jeunesse",
-      "url_image":"",
+      "url_image":"https://global-img.gamergen.com/nickelodeon-logo-svg_0900888891.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://global-img.gamergen.com/nickelodeon-logo-svg_0900888891.jpg"
    },
    {
       "title":"AF | Ludikids",
@@ -701,7 +701,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | J-One",
@@ -709,7 +709,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Disney Junior",
@@ -717,7 +717,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://logo-marque.com/wp-content/uploads/2021/03/Disney-Logo.png"
    },
    {
       "title":"AF | Disney Channel",
@@ -725,7 +725,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://logo-marque.com/wp-content/uploads/2021/03/Disney-Logo.png"
    },
    {
       "title":"AF | TV5",
@@ -733,15 +733,15 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | TREK",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/473",
       "genre":"divertissement",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Trek_logo_2015.svg/113px-Trek_logo_2015.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | TFX",
@@ -749,15 +749,15 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | SyFy",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/470",
       "genre":"cinema",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png"
    },
    {
       "title":"AF | Sunu Yeuf",
@@ -765,7 +765,7 @@
       "genre":"divertissement",
       "url_image":"https://www.lebouquetafricain.com/images/chaines/sunu-yeuf.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | RTL 9",
@@ -773,7 +773,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | M6 International",
@@ -781,7 +781,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | LCI",
@@ -789,7 +789,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Gulli AFrica",
@@ -797,7 +797,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | France 24",
@@ -805,7 +805,7 @@
       "genre":"info",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | France 2",
@@ -813,7 +813,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | ES1",
@@ -821,7 +821,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | English Club TV",
@@ -829,7 +829,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | C news",
@@ -837,7 +837,7 @@
       "genre":"info",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/512px-Canal_News_logo.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | C8",
@@ -845,7 +845,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Bblack Africa",
@@ -853,7 +853,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Piwi➕ HD",
@@ -861,7 +861,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TiJi HD",
@@ -869,7 +869,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Animaux HD",
@@ -877,7 +877,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| DISCOVERY HD",
@@ -885,7 +885,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Nat Geo Wild",
@@ -893,7 +893,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | National Geographic",
@@ -901,7 +901,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Toute L Histoire",
@@ -909,7 +909,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | MTV Hits",
@@ -917,7 +917,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | MTV France",
@@ -925,7 +925,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Trace rikora",
@@ -933,7 +933,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"A.F| Trace Urbanrique",
@@ -941,7 +941,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"A.F| Trace Gospel",
@@ -949,7 +949,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"A.F| Trace Urban",
@@ -957,7 +957,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"A.F| Trace Tropical",
@@ -965,7 +965,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"A.F| Trace Toca HD",
@@ -973,7 +973,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"A.F| Trace Gospel",
@@ -981,7 +981,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"A.F| Trace Naija",
@@ -989,7 +989,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"A.F| Trace Mziki",
@@ -997,7 +997,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"FR NETFLIX THRILLER FHD",
@@ -1005,7 +1005,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"FR NETFLIX MOVIES FHD",
@@ -1013,7 +1013,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"FR NETFLIX KIDS FHD",
@@ -1021,7 +1021,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"FR NETFLIX HORROR FHD",
@@ -1029,7 +1029,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"FR NETFLIX DRAMA FHD",
@@ -1037,7 +1037,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"FR NETFLIX Discovery FHD",
@@ -1045,7 +1045,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"FR NETFLIX COMEDY  FHD",
@@ -1053,7 +1053,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"FR NETFLIX BOX OFFICE FHD",
@@ -1061,7 +1061,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"FR NETFLIX ACTION FHD",
@@ -1069,7 +1069,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Warner Bros HD",
@@ -1077,7 +1077,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR|  Mcm Top HD",
@@ -1085,7 +1085,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Tv8 Mont Blanc HD",
@@ -1093,7 +1093,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF |  Novelas Tv HD",
@@ -1101,7 +1101,7 @@
       "genre":"serie",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/langfr-150px-Logo_Novelas_TV.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
  
    {
@@ -1110,7 +1110,7 @@
       "genre":"musique",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/langfr-200px-Mezzo_Logo.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| M6 Music Hits HD",
@@ -1118,7 +1118,7 @@
       "genre":"musique",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/M6_Music_2018.png/190px-M6_Music_2018.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| LFM TV HD",
@@ -1126,7 +1126,7 @@
       "genre":"musique",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/7/70/LFMTV.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| MEZZO HD",
@@ -1134,7 +1134,7 @@
       "genre":"musique",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/langfr-200px-Mezzo_Logo.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Tele Melody HD",
@@ -1142,7 +1142,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | NOLLYWOOD HD FR",
@@ -1150,7 +1150,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| MTV HD",
@@ -1158,7 +1158,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| MTV DANCE HD",
@@ -1166,7 +1166,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| BeIN Sport Max 10 HD",
@@ -1174,7 +1174,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| BeIN Sport Max 9 HD",
@@ -1182,7 +1182,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR|  BeIN Sport Max 8 HD",
@@ -1190,7 +1190,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| BeIN Sport Max 7 HD",
@@ -1198,7 +1198,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| BeIN Sport Max 6 HD",
@@ -1206,7 +1206,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| BeIN Sport Max 5 HD",
@@ -1214,7 +1214,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| MY ZEN TV HD",
@@ -1222,7 +1222,7 @@
       "genre":"divertissement",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OL TV HD",
@@ -1230,7 +1230,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"| FR | EXTREME SPORTS HD",
@@ -1238,7 +1238,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Golf➕ HD",
@@ -1246,7 +1246,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| GOLF CHANNEL HD",
@@ -1254,7 +1254,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Infosport➕ HD",
@@ -1262,7 +1262,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Foot➕ 24/24 HD",
@@ -1270,7 +1270,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Equidia Life HD",
@@ -1278,7 +1278,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Equidia Live HD",
@@ -1286,7 +1286,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Eurosport 2 HD",
@@ -1294,7 +1294,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Eurosport 1 HD",
@@ -1302,7 +1302,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Canal➕ LIGUE 1 HD➕",
@@ -1310,7 +1310,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Canal➕ LIGUE 1 HD",
@@ -1318,7 +1318,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Canal➕ Premier League HD➕",
@@ -1326,7 +1326,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Canal➕ Sport 3",
@@ -1334,7 +1334,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| AMAZON PRIME 8 HD (ONLY EVENTS)",
@@ -1342,7 +1342,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| AMAZON PRIME 7 HD (ONLY EVENTS)",
@@ -1350,7 +1350,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| AMAZON PRIME 6 HD (ONLY EVENTS)",
@@ -1358,7 +1358,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| AMAZON PRIME 5 HD (ONLY EVENTS",
@@ -1366,7 +1366,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| AMAZON PRIME 4 HD (ONLY EVENTS)",
@@ -1374,7 +1374,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| AMAZON PRIME 3 HD (ONLY EVENTS)",
@@ -1382,7 +1382,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| AMAZON PRIME 2 HD (ONLY EVENTS)",
@@ -1390,7 +1390,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR|AMAZON PRIME 1 HD..",
@@ -1398,7 +1398,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR|  AMAZON PRIME 1 HD (ONLY EVENTS)",
@@ -1406,7 +1406,7 @@
       "genre":"sport",
       "url_image":"https://i0.wp.com/watchama.fr/wp-content/uploads/2020/06/Amazon-Prime-Video-logo.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| J-ONE HD",
@@ -1414,23 +1414,23 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"|FR| Game One Pus HD",
+      "title":"|FR| GameOne Plus HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/361",
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"|FR| Game One HD",
+      "title":"|FR| GameOne HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/360",
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RTS 2 HD",
@@ -1438,7 +1438,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| RTS 1 HD",
@@ -1446,7 +1446,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Disney Junior HD",
@@ -1454,7 +1454,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Disney Channel ➕ HD",
@@ -1462,7 +1462,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Disney Channel HD",
@@ -1470,7 +1470,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Cartoon Network HD",
@@ -1478,7 +1478,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Canal J HD",
@@ -1486,7 +1486,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Nickelodeon Jr HD",
@@ -1494,7 +1494,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| NICKELODEON 4 Teen HD",
@@ -1502,7 +1502,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Nickelodeon ➕1 HD",
@@ -1510,7 +1510,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| NICKELODEON HD",
@@ -1518,7 +1518,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Nick Jr HD",
@@ -1526,7 +1526,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Manga HD",
@@ -1534,7 +1534,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Teletoon ➕1 HD",
@@ -1542,15 +1542,15 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"|FR| Teletoon➕ HD",
+      "title":"|FR| Teletoon HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/345",
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR|  Toute l Histoire",
@@ -1558,7 +1558,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Boomerang plus HD",
@@ -1566,7 +1566,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Boomerang HD",
@@ -1574,7 +1574,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Boing HD",
@@ -1582,7 +1582,7 @@
       "genre":"jeunesse",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_Boing.png/120px-Logo_Boing.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Gulli HD",
@@ -1590,7 +1590,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TOONAMI HD",
@@ -1598,7 +1598,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Tiji",
@@ -1606,7 +1606,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"AF | Piwi➕",
@@ -1614,7 +1614,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| HISTOIRE",
@@ -1622,7 +1622,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TREK HD",
@@ -1630,7 +1630,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TOUTE HISTOIRE HD",
@@ -1638,7 +1638,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Planete➕ C.I. HD",
@@ -1646,15 +1646,15 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"|FR| Planete ➕ A.E HD",
+      "title":"|FR| Planete➕ A.E HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/332",
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Planete➕ HD",
@@ -1662,7 +1662,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Nat Geo  HD",
@@ -1670,7 +1670,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| SCIENCE VIE TV HD",
@@ -1678,7 +1678,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| CHASSE ET PECHE",
@@ -1686,7 +1686,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| DISCOVERY ID HD",
@@ -1694,7 +1694,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Ushuaia TV HD",
@@ -1702,7 +1702,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| SyFy Universal HD",
@@ -1710,7 +1710,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Serie Club HD",
@@ -1718,7 +1718,7 @@
       "genre":"serie",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Seasons HD",
@@ -1726,7 +1726,7 @@
       "genre":"serie",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TV BREIZH HD",
@@ -1734,7 +1734,7 @@
       "genre":"general",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/TV_Breizh_logo_2019.svg/langfr-250px-TV_Breizh_logo_2019.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Paris Premiere HD",
@@ -1742,7 +1742,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Paramount Channel Decale HD",
@@ -1750,7 +1750,7 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/langfr-130px-Paramount_Channel.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Paramount Channel HD",
@@ -1758,7 +1758,7 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/langfr-130px-Paramount_Channel.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| CRIME DISTRICT HD",
@@ -1766,7 +1766,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Comedie➕ HD",
@@ -1774,7 +1774,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS Go Cinema 10 HD",
@@ -1782,7 +1782,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS Go Cinema 7 HD",
@@ -1790,7 +1790,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS Go Cinema 6 HD",
@@ -1798,7 +1798,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS Go Cinema 5 HD",
@@ -1806,7 +1806,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS Go Cinema 4 HD",
@@ -1814,7 +1814,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS Go Cinema 3 HD",
@@ -1822,7 +1822,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS Go Cinema 2 HD",
@@ -1830,7 +1830,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS Go Cinema 1 HD",
@@ -1838,7 +1838,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS Geants HD",
@@ -1846,7 +1846,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS City HD",
@@ -1854,7 +1854,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS Choc HD",
@@ -1862,7 +1862,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| OCS Max HD",
@@ -1870,7 +1870,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TCM CINEMA HD",
@@ -1878,7 +1878,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| POLAR PLUS HD",
@@ -1886,7 +1886,7 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Polar%2B_%28Logo%29.png/220px-Polar%2B_%28Logo%29.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Canal➕ Sport HD",
@@ -1894,7 +1894,7 @@
       "genre":"sport",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Canal➕ Series HD",
@@ -1902,7 +1902,7 @@
       "genre":"serie",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Canal➕ Decale HD",
@@ -1910,15 +1910,15 @@
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg/120px-Canal%2B_D%C3%A9cal%C3%A9_2013.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal ➕ HD➕",
+      "title":"|FR| Canal➕ HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/291",
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Canal➕ HD",
@@ -1926,7 +1926,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TV5 Monde Maghreb HD",
@@ -1934,7 +1934,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Cine➕ Classic HD",
@@ -1942,7 +1942,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Cine➕ Club HD",
@@ -1950,7 +1950,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Cine➕ Famiz HD",
@@ -1958,7 +1958,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Cine➕ Frisson HD",
@@ -1966,7 +1966,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Cine➕ Premier HD",
@@ -1974,7 +1974,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TV5 Monde maghreb orient HD",
@@ -1982,15 +1982,15 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"|FR| TV5 Mondestyle HD",
+      "title":"|FR| TV5 Monde style HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/281",
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| I24 NEWS FRENCH HD",
@@ -1998,7 +1998,7 @@
       "genre":"info",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| France Info HD",
@@ -2006,7 +2006,7 @@
       "genre":"info",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| C NEWS HD",
@@ -2014,7 +2014,7 @@
       "genre":"info",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FRANCE 24 HD",
@@ -2022,7 +2022,7 @@
       "genre":"info",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| COMEDY CENTRAL HD",
@@ -2030,7 +2030,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TMC ➕1 HD",
@@ -2038,7 +2038,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TMC HD",
@@ -2046,7 +2046,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| NRJ 12 HD",
@@ -2054,7 +2054,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Cherie 25 HD",
@@ -2062,7 +2062,7 @@
       "genre":"divertissement",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/langfr-120px-Ch%C3%A9rie_25_logo_2015.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| CLIQUE TV HD",
@@ -2070,7 +2070,7 @@
       "genre":"divertissement ",
       "url_image":"https://www.clique.tv/wp-content/uploads/2020/10/clique-tv-nouvelle-saison-2020-2021-1200x675.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| MCM HD",
@@ -2078,23 +2078,23 @@
       "genre":"musique",
       "url_image":"https://i.ytimg.com/vi/_TWYspZGWSk/maxresdefault.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"| FR | AB3 HD",
+      "title":"| FR | AB 3 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/263",
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
-      "title":"|FR| AB1 HD",
+      "title":"|FR| AB 1 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/262",
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| E HD France",
@@ -2102,7 +2102,7 @@
       "genre":"divertissement",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/E%21_logo_2012.png/40px-E%21_logo_2012.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| CStar HD",
@@ -2110,7 +2110,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| C8 HD",
@@ -2118,7 +2118,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| ACTION HD",
@@ -2126,7 +2126,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| Teva HD",
@@ -2134,7 +2134,7 @@
       "genre":"general",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/langfr-100px-T%C3%A9va_logo_2021.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| 13eme Rue HD",
@@ -2142,7 +2142,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| 6TER HD",
@@ -2150,7 +2150,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| W9 HD",
@@ -2158,7 +2158,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FRANCE O",
@@ -2166,7 +2166,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| France 5 HD",
@@ -2174,7 +2174,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| France 4 HD",
@@ -2182,7 +2182,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| France 3 HD",
@@ -2190,7 +2190,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| France 2 HD",
@@ -2198,7 +2198,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TFX HD",
@@ -2206,7 +2206,7 @@
       "genre":"general",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/langfr-150px-TFX_logo_2018.svg.png",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TF1 SIERES HD",
@@ -2214,7 +2214,7 @@
       "genre":"serie",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TF1 ➕1 HD",
@@ -2222,7 +2222,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| TF1 HD",
@@ -2230,7 +2230,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| M6 HD",
@@ -2238,15 +2238,15 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX KIDS CAILLOU",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/859",
       "genre":"jeunesse",
-      "url_image":"",
+      "url_image":"https://1.bp.blogspot.com/-tRvLUmZu9NA/XxqweT642FI/AAAAAAAADEs/ZtRNxcIqW2IY7LGGhB4ZpnRgSVaNBbSVQCLcBGAsYHQ/s1600/maxresdefault_2.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX KIDS COCOMELON",
@@ -2254,7 +2254,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX KIDS OGGY AND CAFARD",
@@ -2262,7 +2262,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX KIDS PYJAMASQUES",
@@ -2270,7 +2270,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX KIDS SCOOBY-DOO",
@@ -2278,7 +2278,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX KIDS SHAUN THE SHEEP",
@@ -2286,7 +2286,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX KIDS THE SMURFS",
@@ -2294,7 +2294,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX KIDS ZIG AND SHARKO",
@@ -2302,15 +2302,15 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX MOVIES COMEDY",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/867",
       "genre":"cinema",
-      "url_image":"",
+      "url_image":"https://wp-seo-mainpage.s3-accelerate.amazonaws.com/uploads/Movie-Flix-300x225.jpg",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX MOVIES JACKIE CHAN",
@@ -2318,7 +2318,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX MOVIES JIM CARREY",
@@ -2326,7 +2326,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX MOVIES JOHN TRAVOLTA",
@@ -2334,7 +2334,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX MOVIES MEL GIBSON",
@@ -2342,7 +2342,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX MOVIES NICOLAS CAGE",
@@ -2350,7 +2350,7 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    },
    {
       "title":"|FR| FLIX MOVIES VAN DAMME",
@@ -2358,6 +2358,6 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_load":""
+      "url_groupPoster":""
    }
 ]
