@@ -325,7 +325,7 @@
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-1-afrique-1364.png",
       "lang":"FR",
-      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-220px-Canal%2B_Sport_%282013%29.svg.png"
+      "url_groupPoster":"https://d1fmx1rbmqrxrr.cloudfront.net/cnet/i/edit/2020/07/diffuseur-football-canal-770-2.jpg"
    },
    {
       "title":"AF| Canal+ Sport 2",
@@ -376,7 +376,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"La chaîne météo",
+      "title":"LaChaîneMétéo",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/275",
       "genre":"info",
       "url_image":"https://www.tv-direct.fr/assets/logo/chaines/la-chaine-meteo.jpg",
@@ -728,17 +728,17 @@
       "url_groupPoster":"https://logo-marque.com/wp-content/uploads/2021/03/Disney-Logo.png"
    },
    {
-      "title":"AF | TV5",
+      "title":"AF | TV5 MONDE EUROPE",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/474",
-      "genre":"general",
+      "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png"
    },
    {
       "title":"AF | TREK",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/473",
-      "genre":"divertissement",
+      "genre":"documentaire",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Trek_logo_2015.svg/113px-Trek_logo_2015.svg.png",
       "lang":"FR",
       "url_groupPoster":""
@@ -747,9 +747,9 @@
       "title":"AF | TFX",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/472",
       "genre":"general",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/1200px-TFX_logo_2018.svg.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/1200px-TFX_logo_2018.svg.png"
    },
    {
       "title":"AF | SyFy",
@@ -771,7 +771,7 @@
       "title":"AF | RTL 9",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/468",
       "genre":"general",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/RTL9_%282011%29.svg/langfr-200px-RTL9_%282011%29.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -781,13 +781,13 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png"
    },
    {
       "title":"AF | LCI",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/466",
-      "genre":"general",
-      "url_image":"",
+      "genre":"info",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/langfr-200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -819,7 +819,7 @@
       "title":"AF | ES1",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/462",
       "genre":"sport",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -832,7 +832,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | C news",
+      "title":"AF | Cnews",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/460",
       "genre":"info",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/512px-Canal_News_logo.svg.png",
@@ -843,7 +843,7 @@
       "title":"AF | C8",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/459",
       "genre":"general",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/1200px-Logo_C8.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1091,7 +1091,7 @@
       "title":"|FR| Tv8 Mont Blanc HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/428",
       "genre":"general",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_8_Mont_Blanc_2015.svg/1200px-Logo_8_Mont_Blanc_2015.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1137,7 +1137,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Tele Melody HD",
+      "title":"|FR| TeleMelody HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/421",
       "genre":"musique",
       "url_image":"",
@@ -1228,15 +1228,15 @@
       "title":"|FR| OL TV HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/408",
       "genre":"sport",
-      "url_image":"",
+      "url_image":"https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/logo-chaine-ol-tv.png",
       "lang":"FR",
       "url_groupPoster":""
    },
    {
-      "title":"|FR| EXTREME SPORTS HD",
+      "title":"|FR| EXTREMESPORTS HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/407",
       "genre":"sport",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/f/f0/Extreme_Sports_Channel.svg",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1244,7 +1244,7 @@
       "title":"|FR| Golf+ HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/406",
       "genre":"sport",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Golf%2B.svg/1200px-Golf%2B.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1252,23 +1252,23 @@
       "title":"|FR| GOLF CHANNEL HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/405",
       "genre":"sport",
-      "url_image":"",
+      "url_image":"https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/regarder_Golf_channel.png",
       "lang":"FR",
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Infosport+ HD",
+      "title":"|FR| Canal+ Infosport+ HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/404",
       "genre":"sport",
-      "url_image":"",
+      "url_image":"https://www.tv-direct.fr/assets/logo/chaines/infosport-plus.jpg",
       "lang":"FR",
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Foot+ 24/24 HD",
+      "title":"|FR| Canal+ Foot+ 24/24 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/403",
       "genre":"sport",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/1200px-Foot%2B_2011.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1620,7 +1620,7 @@
       "title":"|FR| HISTOIRE",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/336",
       "genre":"documentaire",
-      "url_image":"",
+      "url_image":"https://www.programme-tv.net/imgre/fit/~2~channel~8fc295883a3a7cc0.png/1200x630/crop-from/top/quality/80/histoire-tv.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1673,18 +1673,18 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| SCIENCE VIE TV HD",
+      "title":"|FR| SCIENCEVIE TV HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/328",
       "genre":"documentaire",
-      "url_image":"",
+      "url_image":"https://origin.media1.str.abweb.com/thumbs/iptv/DEF-science-et-vie-34.jpg",
       "lang":"FR",
       "url_groupPoster":""
    },
    {
-      "title":"|FR| CHASSE ET PECHE",
+      "title":"|FR| CHASSEetPECHE",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/327",
       "genre":"documentaire",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/1200px-Chasse_%26_P%C3%AAche_%282013%29.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1700,7 +1700,7 @@
       "title":"|FR| Ushuaia TV HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/322",
       "genre":"documentaire",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ushuaia_tv_logo_V2-RVB.jpg/1200px-Ushuaia_tv_logo_V2-RVB.jpg",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1716,9 +1716,9 @@
       "title":"|FR| SerieClub HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/320",
       "genre":"serie",
-      "url_image":"https://logo-chaines.fandom.com/fr/wiki/S%C3%A9rie_Club?file=SERIE_CLUB_2013.png",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/langfr-170px-Serieclub_%282012%29.svg.png",
       "lang":"FR",
-      "url_groupPoster":"https://logo-chaines.fandom.com/fr/wiki/S%C3%A9rie_Club?file=SERIE_CLUB_2013.png"
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/langfr-170px-Serieclub_%282012%29.svg.png"
    },
    {
       "title":"|FR| Seasons HD",
@@ -1729,7 +1729,7 @@
       "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Seasons_logo.png/155px-Seasons_logo.png"
    },
    {
-      "title":"|FR| TV BREIZH HD",
+      "title":"|FR| TVBREIZH HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/318",
       "genre":"general",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/TV_Breizh_logo_2019.svg/langfr-250px-TV_Breizh_logo_2019.svg.png",
@@ -1740,7 +1740,7 @@
       "title":"|FR| Paris Premiere HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/317",
       "genre":"general",
-      "url_image":"",
+      "url_image":"https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/chaine-tv-paris-premiere.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1900,7 +1900,7 @@
       "title":"|FR| Canal+ Series HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/295",
       "genre":"serie",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/langfr-220px-Canal%2B_S%C3%A9ries.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1934,7 +1934,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png"
    },
    {
       "title":"|FR| Canal+ Cine+ Classic HD",
@@ -1996,7 +1996,7 @@
       "title":"|FR| I24 NEWS FRENCH HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/278",
       "genre":"info",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/150px-LOGO_i24NEWS.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -2004,7 +2004,7 @@
       "title":"|FR| France Info HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/277",
       "genre":"info",
-      "url_image":"",
+      "url_image":"https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/franceinfo-chaine-tv.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -2161,10 +2161,10 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| FRANCE O",
+      "title":"|FR| FRANCE Info",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/252",
-      "genre":"general",
-      "url_image":"",
+      "genre":"info",
+      "url_image":"https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/franceinfo-chaine-tv.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -2174,7 +2174,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://mir-s3-cdn-cf.behance.net/projects/404/f9053793027731.Y3JvcCwxMDA3LDc4OCwyMTYsMA.png"
    },
    {
       "title":"|FR| France 4 HD",
@@ -2198,7 +2198,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://eige.europa.eu/sites/default/files/images/17.png"
    },
    {
       "title":"|FR| TFX HD",
