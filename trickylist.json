@@ -125,7 +125,7 @@
       "genre":"general",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/langfr-150px-TF1_%282013%29.svg.png"
    },
    {
       "title":"|FR| RMC SPORT LIVE 1 HD",
@@ -272,7 +272,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"Canal➕ Ciné➕ émotion",
+      "title":"Canal+ Ciné+ émotion",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/286",
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png",
@@ -280,7 +280,7 @@
       "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/langfr-220px-Canal%2B.svg.png"
    },
    {
-      "title":"Canal➕ cinéma",
+      "title":"Canal+ cinéma",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/292",
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Canal%2BCin%C3%A9ma2009.svg/500px-Canal%2BCin%C3%A9ma2009.svg.png",
@@ -288,7 +288,7 @@
       "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/langfr-220px-Canal%2B.svg.png"
    },
    {
-      "title":"Canal➕ kids",
+      "title":"Canal+ kids",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/294",
       "genre":"jeunesse",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png",
@@ -320,7 +320,7 @@
       "url_groupPoster":"https://pbs.twimg.com/profile_images/1301088380009304066/7RHAiyyT_400x400.jpg"
    },
    {
-      "title":"AF| Canal➕ Sport 1",
+      "title":"AF| Canal+ Sport 1",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/383",
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-1-afrique-1364.png",
@@ -328,7 +328,7 @@
       "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-220px-Canal%2B_Sport_%282013%29.svg.png"
    },
    {
-      "title":"AF| Canal➕ Sport 2",
+      "title":"AF| Canal+ Sport 2",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/384",
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-canal-plus-sport-2-africa-1496.png",
@@ -336,7 +336,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF| Canal➕ Sport 4",
+      "title":"AF| Canal+ Sport 4",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/386",
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-canal-sport-4-1884.png",
@@ -344,7 +344,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF| Canal➕ Sport 5",
+      "title":"AF| Canal+ Sport 5",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/387",
       "genre":"sport",
       "url_image":"https://img.sport-tv-guide.live/images/tv-station-nsport-558.png",
@@ -352,7 +352,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"Canal➕ Premier League",
+      "title":"Canal+ Premier League",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/388",
       "genre":"sport",
       "url_image":"https://cdn.tv-programme.com/pic/chaines/168.png",
@@ -560,7 +560,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | Canal➕ Family Ouest",
+      "title":"AF | Canal+ Family Ouest",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/496",
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png",
@@ -568,7 +568,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | Canal➕ Elles Ouest",
+      "title":"AF | Canal+ Elles Ouest",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/495",
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/e/e8/Canal%2Belles-1.jpg",
@@ -576,7 +576,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | Canal➕ Comedie Ouest",
+      "title":"AF | Canal+ Comedie Ouest",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/494",
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/2/2c/Canal%2Bcom%C3%A9die.png",
@@ -584,7 +584,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | Canal➕ Cinema Ouest",
+      "title":"AF | Canal+ Cinema Ouest",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/493",
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/1200px-Canal%2B_Cin%C3%A9ma_2013.svg.png",
@@ -592,7 +592,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | Canal➕ Action Ouest",
+      "title":"AF | Canal+ Action Ouest",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/492",
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/C_More_Action.svg/langfr-150px-C_More_Action.svg.png",
@@ -600,7 +600,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | Canal➕ Premiere",
+      "title":"AF | Canal+ Premiere",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/491",
       "genre":"cinema",
       "url_image":"https://alloforfait.fr/wp-content/uploads/2020/09/canal-premiere-300x200.jpg",
@@ -608,7 +608,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | Canal➕ Premiere",
+      "title":"AF | Canal+ Premiere",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/490",
       "genre":"cinema",
       "url_image":"https://alloforfait.fr/wp-content/uploads/2020/09/canal-premiere-300x200.jpg",
@@ -616,7 +616,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF| Canal➕ +Sport HD",
+      "title":"AF| Canal+ +Sport HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/489",
       "genre":"sport",
       "url_image":"https://www.canal-sport.fr/sfThemeCanalSportPlugin/images/logo-white.png",
@@ -624,7 +624,7 @@
       "url_groupPoster":""
    },
      {
-      "title":"AF | A➕",
+      "title":"AF | A+",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/426",
       "genre":"serie",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png",
@@ -632,7 +632,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | A➕",
+      "title":"AF | A+",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/488",
       "genre":"serie",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png",
@@ -642,10 +642,10 @@
    {
       "title":"AF | Automoto",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/487",
-      "genre":"sport",
-      "url_image":"",
+      "genre":"divertissement",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_Auto_Moto.jpg/696px-Logo_Auto_Moto.jpg",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_Auto_Moto.jpg/696px-Logo_Auto_Moto.jpg"
    },
    {
       "title":"AF | Eurosport 2",
@@ -856,7 +856,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Piwi➕ HD",
+      "title":"|FR| Piwi+ HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/457",
       "genre":"jeunesse",
       "url_image":"",
@@ -875,9 +875,9 @@
       "title":"|FR| Animaux HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/455",
       "genre":"documentaire",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/langfr-150px-Logo-Animaux-2017.svg.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/langfr-150px-Logo-Animaux-2017.svg.png"
    },
    {
       "title":"|FR| DISCOVERY HD",
@@ -888,7 +888,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | Nat Geo Wild",
+      "title":"AF | NatGeo Wild",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/453",
       "genre":"documentaire",
       "url_image":"",
@@ -896,7 +896,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | National Geographic",
+      "title":"AF | NatGeo",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/452",
       "genre":"documentaire",
       "url_image":"",
@@ -909,7 +909,7 @@
       "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Toute_l%27Histoire_%282013%29.svg/langfr-170px-Toute_l%27Histoire_%282013%29.svg.png"
    },
    {
       "title":"AF | MTV Hits",
@@ -920,9 +920,9 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | MTV France",
+      "title":"AF | TOUTELHISTOIRE",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/449",
-      "genre":"musique",
+      "genre":"documentaire",
       "url_image":"",
       "lang":"FR",
       "url_groupPoster":""
@@ -936,7 +936,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"A.F| Trace Urbanrique",
+      "title":"AF| Trace Urbanrique",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/447",
       "genre":"musique",
       "url_image":"",
@@ -944,7 +944,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"A.F| Trace Gospel",
+      "title":"AF| Trace Gospel",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/446",
       "genre":"musique",
       "url_image":"",
@@ -952,7 +952,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"A.F| Trace Urban",
+      "title":"AF| Trace Urban",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/445",
       "genre":"musique",
       "url_image":"",
@@ -960,7 +960,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"A.F| Trace Tropical",
+      "title":"AF| Trace Tropical",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/444",
       "genre":"musique",
       "url_image":"",
@@ -968,7 +968,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"A.F| Trace Toca HD",
+      "title":"AF| Trace Toca HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/443",
       "genre":"musique",
       "url_image":"",
@@ -976,7 +976,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"A.F| Trace Gospel",
+      "title":"AF| Trace Gospel",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/442",
       "genre":"musique",
       "url_image":"",
@@ -984,7 +984,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"A.F| Trace Naija",
+      "title":"AF| Trace Naija",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/441",
       "genre":"musique",
       "url_image":"",
@@ -992,7 +992,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"A.F| Trace Mziki",
+      "title":"AF| Trace Mziki",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/440",
       "genre":"musique",
       "url_image":"",
@@ -1085,7 +1085,7 @@
       "genre":"musique",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/langfr-150px-TF1_%282013%29.svg.png"
    },
    {
       "title":"|FR| Tv8 Mont Blanc HD",
@@ -1233,7 +1233,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"| FR | EXTREME SPORTS HD",
+      "title":"|FR| EXTREME SPORTS HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/407",
       "genre":"sport",
       "url_image":"",
@@ -1241,7 +1241,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Golf➕ HD",
+      "title":"|FR| Golf+ HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/406",
       "genre":"sport",
       "url_image":"",
@@ -1257,7 +1257,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Infosport➕ HD",
+      "title":"|FR| Infosport+ HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/404",
       "genre":"sport",
       "url_image":"",
@@ -1265,7 +1265,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Foot➕ 24/24 HD",
+      "title":"|FR| Foot+ 24/24 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/403",
       "genre":"sport",
       "url_image":"",
@@ -1305,7 +1305,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ LIGUE 1 HD➕",
+      "title":"|FR| Canal+ LIGUE 1 HD+",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/391",
       "genre":"sport",
       "url_image":"",
@@ -1313,7 +1313,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ LIGUE 1 HD",
+      "title":"|FR| Canal+ LIGUE 1 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/390",
       "genre":"sport",
       "url_image":"",
@@ -1321,7 +1321,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ Premier League HD➕",
+      "title":"|FR| Canal+ Premier League HD+",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/389",
       "genre":"sport",
       "url_image":"",
@@ -1329,7 +1329,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | Canal➕ Sport 3",
+      "title":"AF | Canal+ Sport 3",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/385",
       "genre":"sport",
       "url_image":"",
@@ -1457,7 +1457,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Disney Channel ➕ HD",
+      "title":"|FR| Disney Channel + HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/356",
       "genre":"jeunesse",
       "url_image":"",
@@ -1505,7 +1505,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Nickelodeon ➕1 HD",
+      "title":"|FR| Nickelodeon +1 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/350",
       "genre":"jeunesse",
       "url_image":"",
@@ -1537,7 +1537,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Teletoon ➕1 HD",
+      "title":"|FR| Teletoon +1 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/346",
       "genre":"jeunesse",
       "url_image":"",
@@ -1609,7 +1609,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | Piwi➕",
+      "title":"AF | Piwi+",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/337",
       "genre":"jeunesse",
       "url_image":"",
@@ -1641,15 +1641,15 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Planete➕ C.I. HD",
+      "title":"|FR| Planete+ C.I. HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/333",
       "genre":"documentaire",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/langfr-120px-PlanetePlus_2011.svg.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/langfr-120px-PlanetePlus_2011.svg.png"
    },
    {
-      "title":"|FR| Planete➕ A.E HD",
+      "title":"|FR| Planete+ A.E HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/332",
       "genre":"documentaire",
       "url_image":"",
@@ -1657,7 +1657,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Planete➕ HD",
+      "title":"|FR| Planete+ HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/331",
       "genre":"documentaire",
       "url_image":"",
@@ -1665,7 +1665,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Nat Geo  HD",
+      "title":"|FR| NatGeo  HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/329",
       "genre":"documentaire",
       "url_image":"",
@@ -1708,25 +1708,25 @@
       "title":"|FR| SyFy Universal HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/321",
       "genre":"documentaire",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Syfy_france.svg/langfr-200px-Syfy_france.svg.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Syfy_france.svg/langfr-200px-Syfy_france.svg.png"
    },
    {
-      "title":"|FR| Serie Club HD",
+      "title":"|FR| SerieClub HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/320",
       "genre":"serie",
-      "url_image":"",
+      "url_image":"https://logo-chaines.fandom.com/fr/wiki/S%C3%A9rie_Club?file=SERIE_CLUB_2013.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://logo-chaines.fandom.com/fr/wiki/S%C3%A9rie_Club?file=SERIE_CLUB_2013.png"
    },
    {
       "title":"|FR| Seasons HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/319",
-      "genre":"serie",
-      "url_image":"",
+      "genre":"divertissement",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Seasons_logo.png/155px-Seasons_logo.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Seasons_logo.png/155px-Seasons_logo.png"
    },
    {
       "title":"|FR| TV BREIZH HD",
@@ -1769,7 +1769,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Comedie➕ HD",
+      "title":"|FR| Canal+ Comedie+ HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/313",
       "genre":"cinema",
       "url_image":"",
@@ -1836,17 +1836,17 @@
       "title":"|FR| OCS Go Cinema 1 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/303",
       "genre":"cinema",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/1200px-OCS.svg.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/1200px-OCS.svg.png"
    },
    {
       "title":"|FR| OCS Geants HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/302",
       "genre":"cinema",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/1200px-OCS.svg.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/1200px-OCS.svg.png"
    },
    {
       "title":"|FR| OCS City HD",
@@ -1876,20 +1876,20 @@
       "title":"|FR| TCM CINEMA HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/298",
       "genre":"cinema",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/langfr-150px-TMC_logo_2016.svg.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/langfr-150px-TMC_logo_2016.svg.png"
    },
    {
-      "title":"|FR| POLAR PLUS HD",
+      "title":"|FR| POLAR+ HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/297",
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Polar%2B_%28Logo%29.png/220px-Polar%2B_%28Logo%29.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Polar%2B_%28Logo%29.png/220px-Polar%2B_%28Logo%29.png"
    },
    {
-      "title":"|FR| Canal➕ Sport HD",
+      "title":"|FR| Canal+ Sport HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/296",
       "genre":"sport",
       "url_image":"",
@@ -1897,7 +1897,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ Series HD",
+      "title":"|FR| Canal+ Series HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/295",
       "genre":"serie",
       "url_image":"",
@@ -1905,7 +1905,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ Decale HD",
+      "title":"|FR| Canal+ Decale HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/293",
       "genre":"cinema",
       "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg/120px-Canal%2B_D%C3%A9cal%C3%A9_2013.svg.png",
@@ -1913,7 +1913,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ HD",
+      "title":"|FR| Canal+ HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/291",
       "genre":"cinema",
       "url_image":"",
@@ -1921,7 +1921,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ HD",
+      "title":"|FR| Canal+ HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/290",
       "genre":"cinema",
       "url_image":"",
@@ -1937,7 +1937,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ Cine➕ Classic HD",
+      "title":"|FR| Canal+ Cine+ Classic HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/288",
       "genre":"cinema",
       "url_image":"",
@@ -1945,7 +1945,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ Cine➕ Club HD",
+      "title":"|FR| Canal+ Cine+ Club HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/287",
       "genre":"cinema",
       "url_image":"",
@@ -1953,7 +1953,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ Cine➕ Famiz HD",
+      "title":"|FR| Canal+ Cine+ Famiz HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/285",
       "genre":"cinema",
       "url_image":"",
@@ -1961,7 +1961,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ Cine➕ Frisson HD",
+      "title":"|FR| Canal+ Cine+ Frisson HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/284",
       "genre":"cinema",
       "url_image":"",
@@ -1969,7 +1969,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Canal➕ Cine➕ Premier HD",
+      "title":"|FR| Canal+ Cine+ Premier HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/283",
       "genre":"cinema",
       "url_image":"",
@@ -2033,7 +2033,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| TMC ➕1 HD",
+      "title":"|FR| TMC +1 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/269",
       "genre":"cinema",
       "url_image":"",
@@ -2051,8 +2051,8 @@
    {
       "title":"|FR| NRJ 12 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/267",
-      "genre":"musique",
-      "url_image":"",
+      "genre":"general",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/langfr-200px-NRJ_12_logo_2015.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -2212,12 +2212,12 @@
       "title":"|FR| TF1 SIERES HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/246",
       "genre":"serie",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/langfr-200px-TF1_S%C3%A9ries_Films_logo_2020.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
    {
-      "title":"|FR| TF1 ➕1 HD",
+      "title":"|FR| TF1 +1 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/245",
       "genre":"general",
       "url_image":"",
