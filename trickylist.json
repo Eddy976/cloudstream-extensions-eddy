@@ -699,7 +699,7 @@
       "title":"AF | Ludikids",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/479",
       "genre":"jeunesse",
-      "url_image":"",
+      "url_image":"https://www.ludykid.com/IMG/bandeau.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -707,9 +707,9 @@
       "title":"AF | J-One",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/478",
       "genre":"jeunesse",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/J-One.svg/1200px-J-One.svg.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/J-One.svg/1200px-J-One.svg.png"
    },
    {
       "title":"AF | Disney Junior",
@@ -795,9 +795,9 @@
       "title":"AF | Gulli AFrica",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/465",
       "genre":"jeunesse",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/800px-18._Gulli.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/800px-18._Gulli.png"
    },
    {
       "title":"AF | France 24",
@@ -824,10 +824,10 @@
       "url_groupPoster":""
    },
    {
-      "title":"AF | English Club TV",
+      "title":"AF | EnglishClub TV",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/461",
       "genre":"jeunesse",
-      "url_image":"",
+      "url_image":"https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/englishtvclub2.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -861,15 +861,15 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png"
    },
    {
       "title":"|FR| TiJi HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/456",
       "genre":"jeunesse",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/f/f2/Logo_TiJi_%282019%29.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/f/f2/Logo_TiJi_%282019%29.png"
    },
    {
       "title":"|FR| Animaux HD",
@@ -1476,7 +1476,7 @@
       "title":"|FR| Cartoon Network HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/354",
       "genre":"jeunesse",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/langfr-150px-Cartoon_Network_2010_logo.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1484,7 +1484,7 @@
       "title":"|FR| Canal J HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/353",
       "genre":"jeunesse",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Logo_canal_J.png/150px-Logo_canal_J.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1521,7 +1521,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Nick Jr HD",
+      "title":"|FR| Nickelodeon Jr HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/348",
       "genre":"jeunesse",
       "url_image":"",
@@ -1529,7 +1529,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| Manga HD",
+      "title":"|FR| Mangas HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/347",
       "genre":"jeunesse",
       "url_image":"",
@@ -1542,7 +1542,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/120px-T%C3%A9l%C3%A9toon%2B_Logo.png"
    },
    {
       "title":"|FR| Teletoon HD",
@@ -1550,7 +1550,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/120px-T%C3%A9l%C3%A9toon%2B_Logo.png"
    },
    {
       "title":"|FR|  TouteLHistoire",
@@ -1566,7 +1566,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png"
    },
    {
       "title":"|FR| Boomerang HD",
@@ -1574,7 +1574,7 @@
       "genre":"jeunesse",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png"
    },
    {
       "title":"|FR| Boing HD",
@@ -1596,9 +1596,9 @@
       "title":"|FR| TOONAMI HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/339",
       "genre":"jeunesse",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Toonami_%282020%29.png/150px-Toonami_%282020%29.png",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Toonami_%282020%29.png/150px-Toonami_%282020%29.png"
    },
    {
       "title":"AF | Tiji",
