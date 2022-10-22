@@ -293,7 +293,7 @@
       "genre":"jeunesse",
       "url_image":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png",
       "lang":"FR",
-      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/langfr-220px-Canal%2B.svg.png"
+      "url_groupPoster":""
    },
    {
       "title":"RMC Découverte",
@@ -1438,7 +1438,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://www.tv-direct.fr/assets/logo/chaines/rts-senegal.jpg"
    },
    {
       "title":"|FR| RTS 1 HD",
@@ -1446,7 +1446,7 @@
       "genre":"general",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://www.tv-direct.fr/assets/logo/chaines/rts-senegal.jpg"
    },
    {
       "title":"|FR| Disney Junior HD",
@@ -2009,7 +2009,7 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| C NEWS HD",
+      "title":"|FR| CNEWS HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/276",
       "genre":"info",
       "url_image":"",
@@ -2108,7 +2108,7 @@
       "title":"|FR| CStar HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/260",
       "genre":"general",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/langfr-200px-Logo_projet_CStar.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -2148,7 +2148,7 @@
       "title":"|FR| 6TER HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/254",
       "genre":"general",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/165px-6ter_2012.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -2156,7 +2156,7 @@
       "title":"|FR| W9 HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/253",
       "genre":"general",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/langfr-175px-W9_2018.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
