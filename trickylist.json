@@ -1075,7 +1075,7 @@
       "title":"|FR| Warner Bros HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/430",
       "genre":"cinema",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WarnerTV_France_2021.svg/langfr-200px-WarnerTV_France_2021.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1083,7 +1083,7 @@
       "title":"|FR|  Mcm Top HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/429",
       "genre":"musique",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/MCM_Top.png/200px-MCM_Top.png",
       "lang":"FR",
       "url_groupPoster":"https://i.ytimg.com/vi/_TWYspZGWSk/maxresdefault.jpg"
    },
@@ -1148,7 +1148,7 @@
       "title":"AF | NOLLYWOOD HD FR",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/420",
       "genre":"cinema",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nouvelle_logo_de_Nollywood_TV.png/280px-Nouvelle_logo_de_Nollywood_TV.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1761,10 +1761,10 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| CRIME DISTRICT HD",
+      "title":"|FR| CRIMEDISTRICT HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/314",
-      "genre":"cinema",
-      "url_image":"",
+      "genre":"documentaire",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Crime_District_logo_2016.svg/langfr-200px-Crime_District_logo_2016.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -1876,9 +1876,9 @@
       "title":"|FR| TCM CINEMA HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/298",
       "genre":"cinema",
-      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/langfr-150px-TMC_logo_2016.svg.png",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TCM_Cin%C3%A9ma_logo_2019.png/120px-TCM_Cin%C3%A9ma_logo_2019.png",
       "lang":"FR",
-      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/langfr-150px-TMC_logo_2016.svg.png"
+      "url_groupPoster":""
    },
    {
       "title":"|FR| POLAR+ HD",
@@ -2025,10 +2025,10 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| COMEDY CENTRAL HD",
+      "title":"|FR| COMEDYCENTRAL HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/270",
-      "genre":"cinema",
-      "url_image":"",
+      "genre":"divertissement",
+      "url_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/langfr-200px-Comedy_Central_2018.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -2038,13 +2038,13 @@
       "genre":"cinema",
       "url_image":"",
       "lang":"FR",
-      "url_groupPoster":""
+      "url_groupPoster":"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/langfr-150px-TMC_logo_2016.svg.png"
    },
    {
       "title":"|FR| TMC HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/268",
       "genre":"cinema",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/langfr-150px-TMC_logo_2016.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
@@ -2137,10 +2137,10 @@
       "url_groupPoster":""
    },
    {
-      "title":"|FR| 13eme Rue HD",
+      "title":"|FR| 13emeRue HD",
       "url":"http://dreamsat.ddns.me:8080/Snappy_FR/ryHPEX8w/255",
       "genre":"cinema",
-      "url_image":"",
+      "url_image":"https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_13e_Rue_%282017%29.svg/langfr-150px-Logo_13e_Rue_%282017%29.svg.png",
       "lang":"FR",
       "url_groupPoster":""
    },
